@@ -1,0 +1,42 @@
+---
+title: "Assignment 1: Introduction"
+author: "Shubhangi"
+output: pdf_document
+---
+
+## OVERVIEW
+
+This exercise accompanies the introductory material in Environmental Data Analytics. 
+
+## Directions
+1.  Rename this file `<FirstLast>_A01_Introduction.Rmd` (replacing `<FirstLast>` with your first and last name).
+2.  Change "Student Name" on line 3 (above) with your name.
+3.  Work through the steps, **creating code and output** that fulfill each instruction.
+4.  Be sure to **answer the questions** in this assignment document.
+5.  When you have completed the assignment, **Knit** the text and code into a single PDF file.
+6.  After Knitting, submit the completed exercise (PDF file) to the appropriate assigment section on Sakai.
+
+
+## 1) Discussion Questions
+Enter answers to the questions just below the >Answer: prompt.
+
+1. What are your previous experiences with data analytics, R, and Git? Include both formal and informal training.
+
+> Answer: I did my Bachelor's in Statistics and learnt a basic level of R as a part of my degree. However, it has been 5 years since I graduated and the lack of use has erased all my memory of R code! Apart from that, I did some data analytics and used Github during our Energy Modeling class last semester, and am simultaneously pursuing power modeling and time series analysis this semester.
+
+2. Are there any components of the course about which you feel confident?
+
+> Answer: I conceptually understand most of the concepts of data analysis and statistics.
+
+3. Are there any components of the course about which you feel apprehensive?
+
+> Answer: Using R!!
+
+## 2) GitHub
+
+Provide a link below to your forked course repository in GitHub. Make sure you have pulled all recent changes from the course repository and that you have updated your course README file, committed those changes, and pushed them to your GitHub account. 
+
+> Answer: 
+
+## 3) Knitting
+When you have completed this document, click the `knit` button.This should produce a PDF copy of your markdown document. Submit this PDF to Sakai. 
