@@ -59,10 +59,11 @@ MeanQn1.1 > MedianQn1.1 #Asking R if the mean is greater than the median.
 8.  Label the columns of your data frame with informative titles.
 
 ```{r basics 2}
-StudentNames <- c("Joy", "Ari", "Shu", "Max") #character vector
-TestScores <- c(45, 80, 72, 50) #numerical vector
-TestResults <- TestScores >= 50 #logical vector
-df_TestResults <- cbind(StudentNames, TestScores, TestResults)
+StudentNames <- c("Joy", "Ari", "Shu", "Max") #character vector (Qn5&6)
+TestScores <- c(45, 80, 72, 50) #numerical vector (Qn5&6)
+TestResults <- TestScores >= 50 #logical vector (Qn5&6)
+df_TestResults <- cbind(StudentNames, TestScores, TestResults) #Qn7
+colnames(df_TestResults)<-c("Name", "Score", "Result") #Qn8
 df_TestResults
 ```
 
@@ -75,24 +76,23 @@ df_TestResults
 11. Apply your function to the vector with test scores that you created in number 5.
 
 ```{r basics 3}
-#Using ifelse
+#Using ifelse (Qn10)
 TestResults_ifelse <- function(x){
  Results <- ifelse(x >= 50, "TRUE", "FALSE")
     print(Results)
 }
-TestResults_ifelse(TestScores)
+TestResults_ifelse(TestScores) #Qn11
 
-
-#Using if and else - putting the entire code in comments as the document cannot 
+#Using if and else - putting the entire code in comments as the document cannot
 #knit with code that doesn't work.
 #TestResults_ifelse2 <- function(z){
- # Results2 <- if (z >= 50 ){
-  #  "TRUE"
-  #}
-  #else {
-   # "FALSE"
-  #}
-  #print(Results2)
+# Results2 <- if (z >= 50 ){
+# "TRUE"
+#}
+#else {
+# "FALSE"
+#}
+#print(Results2)
 #}
 #TestResults_ifelse2(TestScores)
 ```
