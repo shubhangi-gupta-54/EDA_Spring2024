@@ -50,6 +50,7 @@ matrix2
 matrix3 <- matrix(1:20, nrow = 5, ncol = 4, byrow = TRUE, # return after comma continues the line
                   dimnames = list(c("uno", "dos", "tres", "quatro", "cinco"), 
                                   c("un", "deux", "trois", "quatre"))) #
+matrix3
 
 matrix1[4, ] #
 matrix1[ , 3] #
