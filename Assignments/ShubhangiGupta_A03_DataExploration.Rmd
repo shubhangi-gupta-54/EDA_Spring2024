@@ -36,7 +36,6 @@ This exercise accompanies the lessons in Environmental Data Analytics on Data Ex
 getwd()
 library(tidyverse)
 library(lubridate)
-library(readr)
 Neonics <- read.csv("Data/Raw/Neonics.csv", stringsAsFactors = TRUE)
 Litter <- read.csv("Data/Raw/Litter.csv", stringsAsFactors = TRUE)
 ```
@@ -45,12 +44,12 @@ Litter <- read.csv("Data/Raw/Litter.csv", stringsAsFactors = TRUE)
 
 2.  The neonicotinoid dataset was collected from the Environmental Protection Agency's ECOTOX Knowledgebase, a database for ecotoxicology research. Neonicotinoids are a class of insecticides used widely in agriculture. The dataset that has been pulled includes all studies published on insects. Why might we be interested in the ecotoxicology of neonicotinoids on insects? Feel free to do a brief internet search if you feel you need more background information.
 
-> Answer: Neonicotinoids are are a class of neuro-active insecticides chemically similar to nicotine developed by scientists at Shell and Bayer in the 1980s. Because they affect the central nervous system of insects, neonicotinoids kill or deleteriously affect a wide variety of both target and non-target insects. Their use has been linked to adverse ecological effects, including risks to many non-target organisms, and specifically on bees and pollinators. In 2022 the EPA concluded that neonicotinoids are likely to adversely affect the majority of federally listed endangered or threatened species and of critical habitats.They also widely contaminate wetlands, streams, and rivers, and due to their widespread use, pollinating insects are chronically exposed to them.
+> Answer: Neonicotinoids are are a class of neuro-active insecticides chemically similar to nicotine developed by scientists at Shell and Bayer in the 1980s. Because they affect the central nervous system of insects, neonicotinoids kill or deleteriously affect a wide variety of both target and non-target insects. Their use has been linked to adverse ecological effects, including risks to many non-target organisms, and specifically on bees and pollinators. In 2022 the EPA concluded that neonicotinoids are likely to adversely affect the majority of federally listed endangered or threatened species and of critical habitats.They also widely contaminate wetlands, streams, and rivers, and due to their widespread use, pollinating insects are chronically exposed to them. Thus it is important to understand their ecotoxicology in order to understand if and how they adversely impact insects that could have cascading effects on our ecosystems and food systems. 
 Source: Wikipedia (https://en.wikipedia.org/wiki/Neonicotinoid)
 
 3.  The Niwot Ridge litter and woody debris dataset was collected from the National Ecological Observatory Network, which collectively includes 81 aquatic and terrestrial sites across 20 ecoclimatic domains. 32 of these sites sample forest litter and woody debris, and we will focus on the Niwot Ridge long-term ecological research (LTER) station in Colorado. Why might we be interested in studying litter and woody debris that falls to the ground in forests? Feel free to do a brief internet search if you feel you need more background information.
 
-> Answer: Litter is material that dropped from the forest canopy and has a butt end diameter < 2cm and a length < 50 cm, while fine woody debris is dead, woody, plant material, including logs, branches, standing dead trees, and root wads that dropped from the forest canopy and have a butt end diameter < 2cm and a length >50 Woody debris is an important part of forest and stream ecosystems because it has a role in carbon budgets and nutrient cycling, is a source of energy for aquatic ecosystems, provides habitat for terrestrial and aquatic organisms, and contributes to structure and roughness, thereby influencing water flows and sediment transport (Harmon and others 1986).
+> Answer: Litter is material that dropped from the forest canopy and has a butt end diameter < 2cm and a length < 50 cm, while fine woody debris is dead, woody, plant material, including logs, branches, standing dead trees, and root wads that dropped from the forest canopy and have a butt end diameter < 2cm and a length >50. We are interested in studying them because woody debris is an important part of forest and stream ecosystems as it has a role in carbon budgets and nutrient cycling, is a source of energy for aquatic ecosystems, provides habitat for terrestrial and aquatic organisms, and contributes to structure and roughness, thereby influencing water flows and sediment transport (Harmon and others 1986). 
 Source: (https://data.neonscience.org/data-products/DP1.10033.001
 https://data.neonscience.org/data-products/DP1.10033.001)
 
@@ -76,7 +75,7 @@ dim(Neonics)
 summary(Neonics$Effect)
 ```
 
-> Answer: The effects column gives information on how the Neonics chemicals impact the samples (mortality/ growth/ behavior/ reproduction/ etc). This is important to study to assess if the chemicals have a detrimental effect on the samples and of what kind.
+> Answer: The effects column gives information on how the Neonics chemicals impact the samples (mortality/ growth/ behavior/ reproduction/ etc). This is important to study to assess if the chemicals have a detrimental effect on the samples and of what kind. The most important effects are mortality and population in terms of data results as well as negative impact of the chemicals on insects.
 
 
 7.  Using the `summary` function, determine the six most commonly studied species in the dataset (common name). What do these species have in common, and why might they be of interest over other insects? Feel free to do a brief internet search for more information if needed.[TIP: The `sort()` command can sort the output of the summary command...]
@@ -85,7 +84,7 @@ summary(Neonics$Effect)
 head(sort(summary(Neonics$Species.Common.Name), decreasing=TRUE), 6)
 ```
 
-> Answer:The most common species studied with their frequency in this dataset are: (1)Honey Bee (667), Parasitic Wasp(285), Buff Tailed Bumblebee (183), Carniolan Honey Bee (152), Bumble Bee (140), Italian Honeybee (113). What they have in common is that they are all different species of bees. They are important because they are the most important pollinating insects.
+> Answer:The most common species studied with their frequency in this dataset are: Other (670), (1)Honey Bee (667), Parasitic Wasp(285), Buff Tailed Bumblebee (183), Carniolan Honey Bee (152), Bumble Bee (140). What they have in common is that they are all different species of bees. They are important because they are the most important pollinating insects.
 
 8.  Concentrations are always a numeric value. What is the class of `Conc.1..Author.` column in the dataset, and why is it not numeric?
 
@@ -93,23 +92,29 @@ head(sort(summary(Neonics$Species.Common.Name), decreasing=TRUE), 6)
 class(Neonics$Conc.1..Author.)
 ```
 
-> Answer: The class of this column is factor because data imported from CSV files is not always recognized as numeric data, especially if the data is not cleaned.
+> Answer: The class of this column is factor because data imported from CSV files is not always recognized as numeric data, especially if the data is not cleaned. In this case, the numeric data is accompanied with characters like /, ~ and >, rendering it a character vector instead of numeric.
 
 ## Explore your data graphically (Neonics)
 
 9.  Using `geom_freqpoly`, generate a plot of the number of studies conducted by publication year.
 
 ```{r}
-ggplot(Neonics)+
-  geom_freqpoly(aes(x=Publication.Year))
+library(ggplot2)
 
+ggplot(Neonics)+
+   geom_freqpoly(aes(x=Publication.Year), col = "red", bins = 40)+
+  ggtitle("Number of studies published each year")+
+  labs (x = "Publication Year", y = "Number of Publications")
+ 
 ```
 
 10. Reproduce the same graph but now add a color aesthetic so that different Test.Location are displayed as different colors.
 
 ```{r}
 ggplot(Neonics)+
-  geom_freqpoly(aes(x=Publication.Year, color = Test.Location))
+  geom_freqpoly(aes(x=Publication.Year, color = Test.Location))+
+  ggtitle("Number of studies published each year by Location")+
+  labs (x = "Publication Year", y = "Number of Publications")
 ```
 
 Interpret this graph. What are the most common test locations, and do they differ over time?
@@ -122,8 +127,10 @@ Interpret this graph. What are the most common test locations, and do they diffe
 
 ```{r}
 ggplot(Neonics)+
-  geom_bar(aes(x=Endpoint))+
-  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+  geom_bar(aes(x=Endpoint), fill = "blue")+
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))+
+  ggtitle("Endpoint Count")+
+  labs (x = "Endpoint Category", y = "Number of Endpoints")
 
 #Using code to double check the two most common endpoints
 sort(table(Neonics$Endpoint), decreasing = TRUE)
@@ -160,18 +167,24 @@ summary(Litter)
 
 ```{r}
 ggplot(Litter)+
-  geom_bar(aes(x=functionalGroup))
+  geom_bar(aes(x=functionalGroup), fill = "green") +
+  ggtitle("Quantity of litter at the Niwot Ridge Sites")+
+  labs (x = "Litter Categories", y = "Quantity of Litter")
 ```
 
 15. Using `geom_boxplot` and `geom_violin`, create a boxplot and a violin plot of dryMass by functionalGroup.
 
 ```{r}
 ggplot(Litter)+
-  geom_boxplot(aes(x=functionalGroup, y=dryMass))
+  geom_boxplot(aes(x=functionalGroup, y=dryMass), col = "purple")+
+  ggtitle("Distribution of quantity of dry mass by Litter type")+
+  labs (x = "Litter Type", y = "Quantile")
 
 ggplot(Litter)+
   geom_violin(aes(x=functionalGroup, y=dryMass),
-  draw_quantiles = c(0.25, 0.5, 0.75 ))
+  draw_quantiles = c(0.25, 0.5, 0.75 ), col = "orange")+
+  ggtitle("Distribution of quantity of dry mass by Litter type")+
+  labs (x = "Litter Type", y = "Quantile")
 ```
 
 Why is the boxplot a more effective visualization option than the violin plot in this case?
