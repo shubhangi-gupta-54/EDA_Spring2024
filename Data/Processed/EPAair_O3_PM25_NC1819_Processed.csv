@@ -1,0 +1,1846 @@
+"Date","Month","Year","Site.Name","COUNTY","meanlatitude","meanlongitude","PM2.5","Ozone"
+1-01-20,1,1,"Bryson City","Swain",35.434767,-83.442133,29.5,NA
+1-01-20,1,1,"Castle Hayne","New Hanover",34.364167,-77.838611,13.5,NA
+1-01-20,1,1,"Clemmons Middle","Forsyth",36.026,-80.342,24,NA
+1-01-20,1,1,"Durham Armory","Durham",36.0329550008979,-78.904037,33,NA
+1-01-20,1,1,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,47
+1-01-20,1,1,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,21.3333333333333,28
+1-01-20,1,1,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,22,NA
+1-01-20,1,1,"Leggett","Edgecombe",35.988278,-77.5843,11,NA
+1-01-20,1,1,"Mendenhall School","Guilford",36.1090060008986,-79.802314,13,NA
+1-01-20,1,1,"Millbrook School","Wake",35.856111,-78.574167,30.6666666666667,32.5
+1-01-20,1,1,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,16.5,NA
+1-01-20,1,1,"West Johnston Co.","Johnston",35.59095,-78.4622,23,26
+1-02-20,2,1,"Bryson City","Swain",35.434767,-83.442133,39,NA
+1-02-20,2,1,"Castle Hayne","New Hanover",34.364167,-77.838611,13,NA
+1-02-20,2,1,"Clemmons Middle","Forsyth",36.026,-80.342,35,NA
+1-02-20,2,1,"Durham Armory","Durham",36.0329550008979,-78.904037,37.3333333333333,NA
+1-02-20,2,1,"Frying Pan Mountain","Haywood",35.379167,-82.7925,7,44
+1-02-20,2,1,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,33,25
+1-02-20,2,1,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,25,NA
+1-02-20,2,1,"Leggett","Edgecombe",35.988278,-77.5843,15,NA
+1-02-20,2,1,"Linville Falls","Avery",35.972347,-81.933072,12,NA
+1-02-20,2,1,"Mendenhall School","Guilford",36.1090060008986,-79.802314,11,NA
+1-02-20,2,1,"Millbrook School","Wake",35.856111,-78.574167,36.5,28
+1-02-20,2,1,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,23,NA
+1-02-20,2,1,"West Johnston Co.","Johnston",35.59095,-78.4622,26.5,25
+1-03-20,3,1,"Bryson City","Swain",35.434767,-83.442133,31,NA
+1-03-20,3,1,"Castle Hayne","New Hanover",34.364167,-77.838611,18,NA
+1-03-20,3,1,"Clemmons Middle","Forsyth",36.026,-80.342,42.6666666666667,NA
+1-03-20,3,1,"Durham Armory","Durham",36.0329550008979,-78.904037,41.3333333333333,NA
+1-03-20,3,1,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,36
+1-03-20,3,1,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,33,16.5
+1-03-20,3,1,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,35.3333333333333,NA
+1-03-20,3,1,"Leggett","Edgecombe",35.988278,-77.5843,19,NA
+1-03-20,3,1,"Linville Falls","Avery",35.972347,-81.933072,7,NA
+1-03-20,3,1,"Mendenhall School","Guilford",36.1090060008986,-79.802314,40,NA
+1-03-20,3,1,"Millbrook School","Wake",35.856111,-78.574167,42.75,22
+1-03-20,3,1,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,23.3333333333333,NA
+1-03-20,3,1,"West Johnston Co.","Johnston",35.59095,-78.4622,35,18
+1-04-20,4,1,"Bryson City","Swain",35.434767,-83.442133,21.5,NA
+1-04-20,4,1,"Castle Hayne","New Hanover",34.364167,-77.838611,19,NA
+1-04-20,4,1,"Clemmons Middle","Forsyth",36.026,-80.342,39,NA
+1-04-20,4,1,"Durham Armory","Durham",36.0329550008979,-78.904037,38.5,NA
+1-04-20,4,1,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,34
+1-04-20,4,1,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,18.3333333333333,26
+1-04-20,4,1,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,32,NA
+1-04-20,4,1,"Leggett","Edgecombe",35.988278,-77.5843,19.5,NA
+1-04-20,4,1,"Mendenhall School","Guilford",36.1090060008986,-79.802314,21.5,NA
+1-04-20,4,1,"Millbrook School","Wake",35.856111,-78.574167,38.6666666666667,28
+1-04-20,4,1,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,24.5,NA
+1-04-20,4,1,"West Johnston Co.","Johnston",35.59095,-78.4622,26,23
+1-05-20,5,1,"Bryson City","Swain",35.434767,-83.442133,21.5,NA
+1-05-20,5,1,"Castle Hayne","New Hanover",34.364167,-77.838611,10,NA
+1-05-20,5,1,"Clemmons Middle","Forsyth",36.026,-80.342,25,NA
+1-05-20,5,1,"Durham Armory","Durham",36.0329550008979,-78.904037,30,NA
+1-05-20,5,1,"Frying Pan Mountain","Haywood",35.379167,-82.7925,13,39
+1-05-20,5,1,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,20,30.5
+1-05-20,5,1,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,22.3333333333333,NA
+1-05-20,5,1,"Leggett","Edgecombe",35.988278,-77.5843,6,NA
+1-05-20,5,1,"Linville Falls","Avery",35.972347,-81.933072,15,NA
+1-05-20,5,1,"Mendenhall School","Guilford",36.1090060008986,-79.802314,14,NA
+1-05-20,5,1,"Millbrook School","Wake",35.856111,-78.574167,28.75,34.5
+1-05-20,5,1,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,16.6666666666667,NA
+1-05-20,5,1,"West Johnston Co.","Johnston",35.59095,-78.4622,20,34
+1-06-20,6,1,"Bryson City","Swain",35.434767,-83.442133,33,NA
+1-06-20,6,1,"Castle Hayne","New Hanover",34.364167,-77.838611,13,NA
+1-06-20,6,1,"Clemmons Middle","Forsyth",36.026,-80.342,25,NA
+1-06-20,6,1,"Durham Armory","Durham",36.0329550008979,-78.904037,29.3333333333333,NA
+1-06-20,6,1,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,40
+1-06-20,6,1,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,32.25,30.5
+1-06-20,6,1,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,15.6666666666667,NA
+1-06-20,6,1,"Leggett","Edgecombe",35.988278,-77.5843,7,NA
+1-06-20,6,1,"Linville Falls","Avery",35.972347,-81.933072,4,NA
+1-06-20,6,1,"Mendenhall School","Guilford",36.1090060008986,-79.802314,18,NA
+1-06-20,6,1,"Millbrook School","Wake",35.856111,-78.574167,27.75,32
+1-06-20,6,1,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,15.6666666666667,NA
+1-06-20,6,1,"West Johnston Co.","Johnston",35.59095,-78.4622,28.5,33
+1-07-20,7,1,"Bryson City","Swain",35.434767,-83.442133,45,NA
+1-07-20,7,1,"Castle Hayne","New Hanover",34.364167,-77.838611,11,NA
+1-07-20,7,1,"Clemmons Middle","Forsyth",36.026,-80.342,40.5,NA
+1-07-20,7,1,"Durham Armory","Durham",36.0329550008979,-78.904037,41,NA
+1-07-20,7,1,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,37
+1-07-20,7,1,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,39,29
+1-07-20,7,1,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,26,NA
+1-07-20,7,1,"Leggett","Edgecombe",35.988278,-77.5843,12.5,NA
+1-07-20,7,1,"Mendenhall School","Guilford",36.1090060008986,-79.802314,30,NA
+1-07-20,7,1,"Millbrook School","Wake",35.856111,-78.574167,42,31.5
+1-07-20,7,1,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,17,NA
+1-07-20,7,1,"West Johnston Co.","Johnston",35.59095,-78.4622,25,30
+1-08-20,8,1,"Bryson City","Swain",35.434767,-83.442133,52,NA
+1-08-20,8,1,"Castle Hayne","New Hanover",34.364167,-77.838611,9.5,NA
+1-08-20,8,1,"Clemmons Middle","Forsyth",36.026,-80.342,51.5,NA
+1-08-20,8,1,"Durham Armory","Durham",36.0329550008979,-78.904037,37.3333333333333,NA
+1-08-20,8,1,"Frying Pan Mountain","Haywood",35.379167,-82.7925,3,42
+1-08-20,8,1,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,42,24
+1-08-20,8,1,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,41.25,NA
+1-08-20,8,1,"Leggett","Edgecombe",35.988278,-77.5843,30.5,NA
+1-08-20,8,1,"Linville Falls","Avery",35.972347,-81.933072,22,NA
+1-08-20,8,1,"Mendenhall School","Guilford",36.1090060008986,-79.802314,37.5,NA
+1-08-20,8,1,"Millbrook School","Wake",35.856111,-78.574167,44.5,30
+1-08-20,8,1,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,28.6666666666667,NA
+1-08-20,8,1,"West Johnston Co.","Johnston",35.59095,-78.4622,35,38
+1-09-20,9,1,"Bryson City","Swain",35.434767,-83.442133,45.5,NA
+1-09-20,9,1,"Castle Hayne","New Hanover",34.364167,-77.838611,15.5,NA
+1-09-20,9,1,"Clemmons Middle","Forsyth",36.026,-80.342,27.3333333333333,NA
+1-09-20,9,1,"Durham Armory","Durham",36.0329550008979,-78.904037,28.3333333333333,NA
+1-09-20,9,1,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,38
+1-09-20,9,1,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,19,31
+1-09-20,9,1,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,24.6666666666667,NA
+1-09-20,9,1,"Leggett","Edgecombe",35.988278,-77.5843,10.5,NA
+1-09-20,9,1,"Linville Falls","Avery",35.972347,-81.933072,5,NA
+1-09-20,9,1,"Mendenhall School","Guilford",36.1090060008986,-79.802314,24,NA
+1-09-20,9,1,"Millbrook School","Wake",35.856111,-78.574167,23.5,32
+1-09-20,9,1,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,18,NA
+1-09-20,9,1,"West Johnston Co.","Johnston",35.59095,-78.4622,27.5,35
+1-10-20,10,1,"Bryson City","Swain",35.434767,-83.442133,38,NA
+1-10-20,10,1,"Castle Hayne","New Hanover",34.364167,-77.838611,11.5,NA
+1-10-20,10,1,"Clemmons Middle","Forsyth",36.026,-80.342,33,NA
+1-10-20,10,1,"Durham Armory","Durham",36.0329550008979,-78.904037,34,NA
+1-10-20,10,1,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,45
+1-10-20,10,1,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,24,28
+1-10-20,10,1,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,28,NA
+1-10-20,10,1,"Leggett","Edgecombe",35.988278,-77.5843,21.5,NA
+1-10-20,10,1,"Mendenhall School","Guilford",36.1090060008986,-79.802314,17.5,NA
+1-10-20,10,1,"Millbrook School","Wake",35.856111,-78.574167,27.6666666666667,30
+1-10-20,10,1,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,26,NA
+1-10-20,10,1,"West Johnston Co.","Johnston",35.59095,-78.4622,26.5,27
+1-11-20,11,1,"Bryson City","Swain",35.434767,-83.442133,28,NA
+1-11-20,11,1,"Castle Hayne","New Hanover",34.364167,-77.838611,14,NA
+1-11-20,11,1,"Clemmons Middle","Forsyth",36.026,-80.342,47.5,NA
+1-11-20,11,1,"Durham Armory","Durham",36.0329550008979,-78.904037,44,NA
+1-11-20,11,1,"Frying Pan Mountain","Haywood",35.379167,-82.7925,0,51
+1-11-20,11,1,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,33,27.5
+1-11-20,11,1,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,43.3333333333333,NA
+1-11-20,11,1,"Leggett","Edgecombe",35.988278,-77.5843,22.5,NA
+1-11-20,11,1,"Linville Falls","Avery",35.972347,-81.933072,3,NA
+1-11-20,11,1,"Mendenhall School","Guilford",36.1090060008986,-79.802314,40,NA
+1-11-20,11,1,"Millbrook School","Wake",35.856111,-78.574167,31.25,27
+1-11-20,11,1,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,24.6666666666667,NA
+1-11-20,11,1,"West Johnston Co.","Johnston",35.59095,-78.4622,38.5,29
+1-12-20,12,1,"Bryson City","Swain",35.434767,-83.442133,28.5,NA
+1-12-20,12,1,"Castle Hayne","New Hanover",34.364167,-77.838611,9,NA
+1-12-20,12,1,"Clemmons Middle","Forsyth",36.026,-80.342,40,NA
+1-12-20,12,1,"Durham Armory","Durham",36.0329550008979,-78.904037,31.3333333333333,NA
+1-12-20,12,1,"Frying Pan Mountain","Haywood",35.379167,-82.7925,13,37
+1-12-20,12,1,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,36.75,30
+1-12-20,12,1,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,42,NA
+1-12-20,12,1,"Leggett","Edgecombe",35.988278,-77.5843,12.5,NA
+1-12-20,12,1,"Linville Falls","Avery",35.972347,-81.933072,26,NA
+1-12-20,12,1,"Mendenhall School","Guilford",36.1090060008986,-79.802314,27.5,NA
+1-12-20,12,1,"Millbrook School","Wake",35.856111,-78.574167,33,32
+1-12-20,12,1,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,18.3333333333333,NA
+1-12-20,12,1,"West Johnston Co.","Johnston",35.59095,-78.4622,24,30
+2-01-20,1,2,"Bryson City","Swain",35.434767,-83.442133,56,NA
+2-01-20,1,2,"Castle Hayne","New Hanover",34.364167,-77.838611,14,NA
+2-01-20,1,2,"Clemmons Middle","Forsyth",36.026,-80.342,55,NA
+2-01-20,1,2,"Durham Armory","Durham",36.0329550008979,-78.904037,41,34
+2-01-20,1,2,"Frying Pan Mountain","Haywood",35.379167,-82.7925,12,44
+2-01-20,1,2,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,38.5,36
+2-01-20,1,2,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,42.5,NA
+2-01-20,1,2,"Leggett","Edgecombe",35.988278,-77.5843,24,38
+2-01-20,1,2,"Linville Falls","Avery",35.972347,-81.933072,24,NA
+2-01-20,1,2,"Mendenhall School","Guilford",36.1090060008986,-79.802314,45,NA
+2-01-20,1,2,"Millbrook School","Wake",35.856111,-78.574167,38.25,37.5
+2-01-20,1,2,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,24,NA
+2-01-20,1,2,"West Johnston Co.","Johnston",35.59095,-78.4622,38.5,40
+2-02-20,2,2,"Bryson City","Swain",35.434767,-83.442133,30,NA
+2-02-20,2,2,"Castle Hayne","New Hanover",34.364167,-77.838611,20,NA
+2-02-20,2,2,"Clemmons Middle","Forsyth",36.026,-80.342,38,NA
+2-02-20,2,2,"Durham Armory","Durham",36.0329550008979,-78.904037,42.6666666666667,26
+2-02-20,2,2,"Frying Pan Mountain","Haywood",35.379167,-82.7925,9,47
+2-02-20,2,2,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,44,38
+2-02-20,2,2,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,41.3333333333333,NA
+2-02-20,2,2,"Leggett","Edgecombe",35.988278,-77.5843,26,30
+2-02-20,2,2,"Linville Falls","Avery",35.972347,-81.933072,14,NA
+2-02-20,2,2,"Mendenhall School","Guilford",36.1090060008986,-79.802314,32.5,NA
+2-02-20,2,2,"Millbrook School","Wake",35.856111,-78.574167,52.25,31.5
+2-02-20,2,2,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,40.5,NA
+2-02-20,2,2,"West Johnston Co.","Johnston",35.59095,-78.4622,35,34
+2-03-20,3,2,"Bryson City","Swain",35.434767,-83.442133,40,NA
+2-03-20,3,2,"Castle Hayne","New Hanover",34.364167,-77.838611,8,NA
+2-03-20,3,2,"Clemmons Middle","Forsyth",36.026,-80.342,57.5,NA
+2-03-20,3,2,"Durham Armory","Durham",36.0329550008979,-78.904037,48.5,19
+2-03-20,3,2,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,46
+2-03-20,3,2,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,46.6666666666667,37.5
+2-03-20,3,2,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,44.5,NA
+2-03-20,3,2,"Leggett","Edgecombe",35.988278,-77.5843,24.5,32
+2-03-20,3,2,"Mendenhall School","Guilford",36.1090060008986,-79.802314,46.5,NA
+2-03-20,3,2,"Millbrook School","Wake",35.856111,-78.574167,55.6666666666667,31.5
+2-03-20,3,2,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,35,NA
+2-03-20,3,2,"West Johnston Co.","Johnston",35.59095,-78.4622,39.5,38
+2-04-20,4,2,"Bryson City","Swain",35.434767,-83.442133,45.5,NA
+2-04-20,4,2,"Castle Hayne","New Hanover",34.364167,-77.838611,12,NA
+2-04-20,4,2,"Clemmons Middle","Forsyth",36.026,-80.342,50,NA
+2-04-20,4,2,"Durham Armory","Durham",36.0329550008979,-78.904037,39.3333333333333,39
+2-04-20,4,2,"Frying Pan Mountain","Haywood",35.379167,-82.7925,2,44
+2-04-20,4,2,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,46.75,30
+2-04-20,4,2,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,39.5,NA
+2-04-20,4,2,"Leggett","Edgecombe",35.988278,-77.5843,28,43
+2-04-20,4,2,"Linville Falls","Avery",35.972347,-81.933072,5,NA
+2-04-20,4,2,"Mendenhall School","Guilford",36.1090060008986,-79.802314,41.5,NA
+2-04-20,4,2,"Millbrook School","Wake",35.856111,-78.574167,40.75,37
+2-04-20,4,2,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,17,NA
+2-04-20,4,2,"West Johnston Co.","Johnston",35.59095,-78.4622,29,43
+2-05-20,5,2,"Bryson City","Swain",35.434767,-83.442133,40.5,NA
+2-05-20,5,2,"Castle Hayne","New Hanover",34.364167,-77.838611,26.5,NA
+2-05-20,5,2,"Clemmons Middle","Forsyth",36.026,-80.342,38,NA
+2-05-20,5,2,"Durham Armory","Durham",36.0329550008979,-78.904037,42,31
+2-05-20,5,2,"Frying Pan Mountain","Haywood",35.379167,-82.7925,17,37
+2-05-20,5,2,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,37.25,31.5
+2-05-20,5,2,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,33.3333333333333,NA
+2-05-20,5,2,"Leggett","Edgecombe",35.988278,-77.5843,20,37
+2-05-20,5,2,"Linville Falls","Avery",35.972347,-81.933072,20,NA
+2-05-20,5,2,"Mendenhall School","Guilford",36.1090060008986,-79.802314,34,NA
+2-05-20,5,2,"Millbrook School","Wake",35.856111,-78.574167,47,31.5
+2-05-20,5,2,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,32,NA
+2-05-20,5,2,"West Johnston Co.","Johnston",35.59095,-78.4622,32,38
+2-06-20,6,2,"Bryson City","Swain",35.434767,-83.442133,60.5,NA
+2-06-20,6,2,"Castle Hayne","New Hanover",34.364167,-77.838611,28.5,NA
+2-06-20,6,2,"Clemmons Middle","Forsyth",36.026,-80.342,37.5,NA
+2-06-20,6,2,"Durham Armory","Durham",36.0329550008979,-78.904037,51,33
+2-06-20,6,2,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,36
+2-06-20,6,2,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,40.6666666666667,22.5
+2-06-20,6,2,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,37,NA
+2-06-20,6,2,"Leggett","Edgecombe",35.988278,-77.5843,36,39
+2-06-20,6,2,"Mendenhall School","Guilford",36.1090060008986,-79.802314,38,NA
+2-06-20,6,2,"Millbrook School","Wake",35.856111,-78.574167,54.3333333333333,33.5
+2-06-20,6,2,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,45,NA
+2-06-20,6,2,"West Johnston Co.","Johnston",35.59095,-78.4622,44.5,37
+2-07-20,7,2,"Bryson City","Swain",35.434767,-83.442133,31,NA
+2-07-20,7,2,"Castle Hayne","New Hanover",34.364167,-77.838611,16.5,NA
+2-07-20,7,2,"Clemmons Middle","Forsyth",36.026,-80.342,24,NA
+2-07-20,7,2,"Durham Armory","Durham",36.0329550008979,-78.904037,35,30
+2-07-20,7,2,"Frying Pan Mountain","Haywood",35.379167,-82.7925,2,34
+2-07-20,7,2,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,28.25,28
+2-07-20,7,2,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,25.6666666666667,NA
+2-07-20,7,2,"Leggett","Edgecombe",35.988278,-77.5843,32,31
+2-07-20,7,2,"Linville Falls","Avery",35.972347,-81.933072,9,NA
+2-07-20,7,2,"Mendenhall School","Guilford",36.1090060008986,-79.802314,28.5,NA
+2-07-20,7,2,"Millbrook School","Wake",35.856111,-78.574167,41,31.5
+2-07-20,7,2,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,33.5,NA
+2-07-20,7,2,"West Johnston Co.","Johnston",35.59095,-78.4622,42.5,NA
+2-08-20,8,2,"Bryson City","Swain",35.434767,-83.442133,22.5,NA
+2-08-20,8,2,"Castle Hayne","New Hanover",34.364167,-77.838611,16.5,39
+2-08-20,8,2,"Clemmons Middle","Forsyth",36.026,-80.342,22,NA
+2-08-20,8,2,"Durham Armory","Durham",36.0329550008979,-78.904037,40.3333333333333,39
+2-08-20,8,2,"Frying Pan Mountain","Haywood",35.379167,-82.7925,7,44
+2-08-20,8,2,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,33.75,34
+2-08-20,8,2,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,26.75,NA
+2-08-20,8,2,"Leggett","Edgecombe",35.988278,-77.5843,31.5,40
+2-08-20,8,2,"Linville Falls","Avery",35.972347,-81.933072,8,NA
+2-08-20,8,2,"Mendenhall School","Guilford",36.1090060008986,-79.802314,25.5,NA
+2-08-20,8,2,"Millbrook School","Wake",35.856111,-78.574167,42.75,34
+2-08-20,8,2,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,31.5,NA
+2-08-20,8,2,"West Johnston Co.","Johnston",35.59095,-78.4622,30,NA
+2-09-20,9,2,"Bryson City","Swain",35.434767,-83.442133,29,NA
+2-09-20,9,2,"Castle Hayne","New Hanover",34.364167,-77.838611,13,36
+2-09-20,9,2,"Clemmons Middle","Forsyth",36.026,-80.342,32.5,NA
+2-09-20,9,2,"Durham Armory","Durham",36.0329550008979,-78.904037,41.5,35
+2-09-20,9,2,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,46
+2-09-20,9,2,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,23.3333333333333,36
+2-09-20,9,2,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,35,NA
+2-09-20,9,2,"Leggett","Edgecombe",35.988278,-77.5843,17.5,34
+2-09-20,9,2,"Mendenhall School","Guilford",36.1090060008986,-79.802314,37,NA
+2-09-20,9,2,"Millbrook School","Wake",35.856111,-78.574167,35,36
+2-09-20,9,2,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,10,NA
+2-09-20,9,2,"West Johnston Co.","Johnston",35.59095,-78.4622,31,NA
+2-10-20,10,2,"Bryson City","Swain",35.434767,-83.442133,36.5,NA
+2-10-20,10,2,"Castle Hayne","New Hanover",34.364167,-77.838611,6.5,38
+2-10-20,10,2,"Clemmons Middle","Forsyth",36.026,-80.342,36.5,NA
+2-10-20,10,2,"Durham Armory","Durham",36.0329550008979,-78.904037,40,32
+2-10-20,10,2,"Frying Pan Mountain","Haywood",35.379167,-82.7925,1,44
+2-10-20,10,2,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,37.5,24
+2-10-20,10,2,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,47.3333333333333,NA
+2-10-20,10,2,"Leggett","Edgecombe",35.988278,-77.5843,20.5,34
+2-10-20,10,2,"Linville Falls","Avery",35.972347,-81.933072,14,NA
+2-10-20,10,2,"Mendenhall School","Guilford",36.1090060008986,-79.802314,39,NA
+2-10-20,10,2,"Millbrook School","Wake",35.856111,-78.574167,40,27
+2-10-20,10,2,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,23,NA
+2-10-20,10,2,"West Johnston Co.","Johnston",35.59095,-78.4622,31.5,NA
+2-11-20,11,2,"Bryson City","Swain",35.434767,-83.442133,25,NA
+2-11-20,11,2,"Castle Hayne","New Hanover",34.364167,-77.838611,13,21
+2-11-20,11,2,"Clemmons Middle","Forsyth",36.026,-80.342,19,NA
+2-11-20,11,2,"Durham Armory","Durham",36.0329550008979,-78.904037,31,24
+2-11-20,11,2,"Frying Pan Mountain","Haywood",35.379167,-82.7925,3,34
+2-11-20,11,2,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,32.25,19
+2-11-20,11,2,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,32.6666666666667,NA
+2-11-20,11,2,"Leggett","Edgecombe",35.988278,-77.5843,14,27
+2-11-20,11,2,"Linville Falls","Avery",35.972347,-81.933072,10,NA
+2-11-20,11,2,"Mendenhall School","Guilford",36.1090060008986,-79.802314,27,NA
+2-11-20,11,2,"Millbrook School","Wake",35.856111,-78.574167,36,22
+2-11-20,11,2,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,16,NA
+2-11-20,11,2,"West Johnston Co.","Johnston",35.59095,-78.4622,25.5,NA
+2-12-20,12,2,"Bryson City","Swain",35.434767,-83.442133,11.5,NA
+2-12-20,12,2,"Castle Hayne","New Hanover",34.364167,-77.838611,1,31
+2-12-20,12,2,"Clemmons Middle","Forsyth",36.026,-80.342,14.5,NA
+2-12-20,12,2,"Durham Armory","Durham",36.0329550008979,-78.904037,18,22
+2-12-20,12,2,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,45
+2-12-20,12,2,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,10.3333333333333,21
+2-12-20,12,2,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,13.5,NA
+2-12-20,12,2,"Leggett","Edgecombe",35.988278,-77.5843,8,25
+2-12-20,12,2,"Mendenhall School","Guilford",36.1090060008986,-79.802314,9,NA
+2-12-20,12,2,"Millbrook School","Wake",35.856111,-78.574167,24.6666666666667,24.5
+2-12-20,12,2,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,15.3333333333333,NA
+2-12-20,12,2,"West Johnston Co.","Johnston",35.59095,-78.4622,14.5,NA
+3-01-20,1,3,"Bryson City","Swain",35.434767,-83.442133,35,30.5
+3-01-20,1,3,"Castle Hayne","New Hanover",34.364167,-77.838611,16,34
+3-01-20,1,3,"Clemmons Middle","Forsyth",36.026,-80.342,35.5,31.5
+3-01-20,1,3,"Durham Armory","Durham",36.0329550008979,-78.904037,36.6666666666667,31
+3-01-20,1,3,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,39
+3-01-20,1,3,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,26.5,27.5
+3-01-20,1,3,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,25,32.5
+3-01-20,1,3,"Leggett","Edgecombe",35.988278,-77.5843,27.5,29
+3-01-20,1,3,"Linville Falls","Avery",35.972347,-81.933072,NA,33.5
+3-01-20,1,3,"Mendenhall School","Guilford",36.1090060008986,-79.802314,26,33.5
+3-01-20,1,3,"Millbrook School","Wake",35.856111,-78.574167,39.75,30
+3-01-20,1,3,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,27,30
+3-01-20,1,3,"West Johnston Co.","Johnston",35.59095,-78.4622,35,29.5
+3-02-20,2,3,"Bryson City","Swain",35.434767,-83.442133,19.5,37.5
+3-02-20,2,3,"Castle Hayne","New Hanover",34.364167,-77.838611,8,35
+3-02-20,2,3,"Clemmons Middle","Forsyth",36.026,-80.342,21.5,36.5
+3-02-20,2,3,"Durham Armory","Durham",36.0329550008979,-78.904037,23.5,37.5
+3-02-20,2,3,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,43.5
+3-02-20,2,3,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,18.3333333333333,34.5
+3-02-20,2,3,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,15.5,36.5
+3-02-20,2,3,"Leggett","Edgecombe",35.988278,-77.5843,4.5,35
+3-02-20,2,3,"Linville Falls","Avery",35.972347,-81.933072,NA,34
+3-02-20,2,3,"Mendenhall School","Guilford",36.1090060008986,-79.802314,11.5,40.5
+3-02-20,2,3,"Millbrook School","Wake",35.856111,-78.574167,21.3333333333333,38
+3-02-20,2,3,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,9,36
+3-02-20,2,3,"West Johnston Co.","Johnston",35.59095,-78.4622,7,38
+3-03-20,3,3,"Bryson City","Swain",35.434767,-83.442133,28,32.5
+3-03-20,3,3,"Castle Hayne","New Hanover",34.364167,-77.838611,8,39.5
+3-03-20,3,3,"Clemmons Middle","Forsyth",36.026,-80.342,29,33
+3-03-20,3,3,"Durham Armory","Durham",36.0329550008979,-78.904037,23.3333333333333,35.5
+3-03-20,3,3,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,39
+3-03-20,3,3,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,17.75,28.5
+3-03-20,3,3,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,14.75,33.5
+3-03-20,3,3,"Leggett","Edgecombe",35.988278,-77.5843,17,36.5
+3-03-20,3,3,"Linville Falls","Avery",35.972347,-81.933072,NA,25
+3-03-20,3,3,"Mendenhall School","Guilford",36.1090060008986,-79.802314,18.5,35.5
+3-03-20,3,3,"Millbrook School","Wake",35.856111,-78.574167,28.5,36
+3-03-20,3,3,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,17.3333333333333,37
+3-03-20,3,3,"West Johnston Co.","Johnston",35.59095,-78.4622,17.5,36
+3-04-20,4,3,"Bryson City","Swain",35.434767,-83.442133,25,39.5
+3-04-20,4,3,"Castle Hayne","New Hanover",34.364167,-77.838611,9,34.5
+3-04-20,4,3,"Clemmons Middle","Forsyth",36.026,-80.342,20.3333333333333,42.5
+3-04-20,4,3,"Durham Armory","Durham",36.0329550008979,-78.904037,31.6666666666667,42.5
+3-04-20,4,3,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,42.5
+3-04-20,4,3,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,21.5,40
+3-04-20,4,3,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,18.3333333333333,43
+3-04-20,4,3,"Leggett","Edgecombe",35.988278,-77.5843,18,38
+3-04-20,4,3,"Linville Falls","Avery",35.972347,-81.933072,NA,38
+3-04-20,4,3,"Mendenhall School","Guilford",36.1090060008986,-79.802314,20,42.5
+3-04-20,4,3,"Millbrook School","Wake",35.856111,-78.574167,24.3333333333333,41.5
+3-04-20,4,3,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,26.6666666666667,38
+3-04-20,4,3,"West Johnston Co.","Johnston",35.59095,-78.4622,22.5,37.5
+3-05-20,5,3,"Bryson City","Swain",35.434767,-83.442133,41,43
+3-05-20,5,3,"Castle Hayne","New Hanover",34.364167,-77.838611,13.5,37.5
+3-05-20,5,3,"Clemmons Middle","Forsyth",36.026,-80.342,25,42
+3-05-20,5,3,"Durham Armory","Durham",36.0329550008979,-78.904037,32.5,39.5
+3-05-20,5,3,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,44
+3-05-20,5,3,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,24.6666666666667,41
+3-05-20,5,3,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,20.5,41
+3-05-20,5,3,"Leggett","Edgecombe",35.988278,-77.5843,11.5,38.5
+3-05-20,5,3,"Linville Falls","Avery",35.972347,-81.933072,NA,42.5
+3-05-20,5,3,"Mendenhall School","Guilford",36.1090060008986,-79.802314,14,42.5
+3-05-20,5,3,"Millbrook School","Wake",35.856111,-78.574167,32.3333333333333,40
+3-05-20,5,3,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,21,37.5
+3-05-20,5,3,"West Johnston Co.","Johnston",35.59095,-78.4622,28,39
+3-06-20,6,3,"Bryson City","Swain",35.434767,-83.442133,44.5,40.5
+3-06-20,6,3,"Castle Hayne","New Hanover",34.364167,-77.838611,15.5,42
+3-06-20,6,3,"Clemmons Middle","Forsyth",36.026,-80.342,27.5,34.5
+3-06-20,6,3,"Durham Armory","Durham",36.0329550008979,-78.904037,34,32
+3-06-20,6,3,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,45
+3-06-20,6,3,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,39,30.5
+3-06-20,6,3,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,22.5,35.5
+3-06-20,6,3,"Leggett","Edgecombe",35.988278,-77.5843,13,37
+3-06-20,6,3,"Linville Falls","Avery",35.972347,-81.933072,44,40.5
+3-06-20,6,3,"Mendenhall School","Guilford",36.1090060008986,-79.802314,20.5,34.5
+3-06-20,6,3,"Millbrook School","Wake",35.856111,-78.574167,33.25,33.5
+3-06-20,6,3,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,21.6666666666667,38.5
+3-06-20,6,3,"West Johnston Co.","Johnston",35.59095,-78.4622,35,35.5
+3-07-20,7,3,"Bryson City","Swain",35.434767,-83.442133,27.5,41
+3-07-20,7,3,"Castle Hayne","New Hanover",34.364167,-77.838611,24.5,42
+3-07-20,7,3,"Clemmons Middle","Forsyth",36.026,-80.342,39,37.5
+3-07-20,7,3,"Durham Armory","Durham",36.0329550008979,-78.904037,37,36.5
+3-07-20,7,3,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,47
+3-07-20,7,3,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,29,36.5
+3-07-20,7,3,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,30.6666666666667,37
+3-07-20,7,3,"Leggett","Edgecombe",35.988278,-77.5843,12,39
+3-07-20,7,3,"Linville Falls","Avery",35.972347,-81.933072,NA,41
+3-07-20,7,3,"Mendenhall School","Guilford",36.1090060008986,-79.802314,24,38.5
+3-07-20,7,3,"Millbrook School","Wake",35.856111,-78.574167,38.5,37
+3-07-20,7,3,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,25.3333333333333,39.5
+3-07-20,7,3,"West Johnston Co.","Johnston",35.59095,-78.4622,22.5,38
+3-08-20,8,3,"Bryson City","Swain",35.434767,-83.442133,34,35
+3-08-20,8,3,"Castle Hayne","New Hanover",34.364167,-77.838611,18,43
+3-08-20,8,3,"Clemmons Middle","Forsyth",36.026,-80.342,46,35.5
+3-08-20,8,3,"Durham Armory","Durham",36.0329550008979,-78.904037,40.5,36
+3-08-20,8,3,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,44
+3-08-20,8,3,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,43.6666666666667,33
+3-08-20,8,3,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,40.5,34
+3-08-20,8,3,"Leggett","Edgecombe",35.988278,-77.5843,15,37.5
+3-08-20,8,3,"Linville Falls","Avery",35.972347,-81.933072,NA,40
+3-08-20,8,3,"Mendenhall School","Guilford",36.1090060008986,-79.802314,20,36.5
+3-08-20,8,3,"Millbrook School","Wake",35.856111,-78.574167,42.6666666666667,36.5
+3-08-20,8,3,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,23,38.5
+3-08-20,8,3,"West Johnston Co.","Johnston",35.59095,-78.4622,28,38
+3-09-20,9,3,"Bryson City","Swain",35.434767,-83.442133,36.5,38.5
+3-09-20,9,3,"Castle Hayne","New Hanover",34.364167,-77.838611,21.5,44
+3-09-20,9,3,"Clemmons Middle","Forsyth",36.026,-80.342,47,32
+3-09-20,9,3,"Durham Armory","Durham",36.0329550008979,-78.904037,36.3333333333333,34
+3-09-20,9,3,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,34
+3-09-20,9,3,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,42,33.5
+3-09-20,9,3,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,32.25,33
+3-09-20,9,3,"Leggett","Edgecombe",35.988278,-77.5843,21,40
+3-09-20,9,3,"Linville Falls","Avery",35.972347,-81.933072,18,39.5
+3-09-20,9,3,"Mendenhall School","Guilford",36.1090060008986,-79.802314,37,33
+3-09-20,9,3,"Millbrook School","Wake",35.856111,-78.574167,41.75,38.5
+3-09-20,9,3,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,23,41.5
+3-09-20,9,3,"West Johnston Co.","Johnston",35.59095,-78.4622,30.5,38.5
+3-10-20,10,3,"Bryson City","Swain",35.434767,-83.442133,45,37.5
+3-10-20,10,3,"Castle Hayne","New Hanover",34.364167,-77.838611,37,37
+3-10-20,10,3,"Clemmons Middle","Forsyth",36.026,-80.342,41,33.5
+3-10-20,10,3,"Durham Armory","Durham",36.0329550008979,-78.904037,50,25
+3-10-20,10,3,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,48
+3-10-20,10,3,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,46.5,26.5
+3-10-20,10,3,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,38.6666666666667,31.5
+3-10-20,10,3,"Leggett","Edgecombe",35.988278,-77.5843,46,34.5
+3-10-20,10,3,"Linville Falls","Avery",35.972347,-81.933072,NA,46
+3-10-20,10,3,"Mendenhall School","Guilford",36.1090060008986,-79.802314,45,33
+3-10-20,10,3,"Millbrook School","Wake",35.856111,-78.574167,50.75,34.5
+3-10-20,10,3,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,41.3333333333333,39
+3-10-20,10,3,"West Johnston Co.","Johnston",35.59095,-78.4622,58.5,36.5
+3-11-20,11,3,"Bryson City","Swain",35.434767,-83.442133,38.5,30
+3-11-20,11,3,"Castle Hayne","New Hanover",34.364167,-77.838611,24.5,41
+3-11-20,11,3,"Clemmons Middle","Forsyth",36.026,-80.342,47.5,35
+3-11-20,11,3,"Durham Armory","Durham",36.0329550008979,-78.904037,44,36
+3-11-20,11,3,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,45
+3-11-20,11,3,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,41.3333333333333,32
+3-11-20,11,3,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,41,36.5
+3-11-20,11,3,"Leggett","Edgecombe",35.988278,-77.5843,39,38
+3-11-20,11,3,"Linville Falls","Avery",35.972347,-81.933072,NA,42
+3-11-20,11,3,"Mendenhall School","Guilford",36.1090060008986,-79.802314,36,37.5
+3-11-20,11,3,"Millbrook School","Wake",35.856111,-78.574167,36.3333333333333,37
+3-11-20,11,3,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,26,39.5
+3-11-20,11,3,"West Johnston Co.","Johnston",35.59095,-78.4622,36,37.5
+3-12-20,12,3,"Bryson City","Swain",35.434767,-83.442133,23,43
+3-12-20,12,3,"Castle Hayne","New Hanover",34.364167,-77.838611,24.5,40.5
+3-12-20,12,3,"Clemmons Middle","Forsyth",36.026,-80.342,31,42
+3-12-20,12,3,"Durham Armory","Durham",36.0329550008979,-78.904037,32.6666666666667,40.5
+3-12-20,12,3,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,48
+3-12-20,12,3,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,18.5,39
+3-12-20,12,3,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,28,43.5
+3-12-20,12,3,"Leggett","Edgecombe",35.988278,-77.5843,18.5,38.5
+3-12-20,12,3,"Linville Falls","Avery",35.972347,-81.933072,10,45.5
+3-12-20,12,3,"Mendenhall School","Guilford",36.1090060008986,-79.802314,25,43.5
+3-12-20,12,3,"Millbrook School","Wake",35.856111,-78.574167,28.75,45
+3-12-20,12,3,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,19.6666666666667,39
+3-12-20,12,3,"West Johnston Co.","Johnston",35.59095,-78.4622,29.5,39
+4-01-20,1,4,"Bryson City","Swain",35.434767,-83.442133,22.5,45.5
+4-01-20,1,4,"Castle Hayne","New Hanover",34.364167,-77.838611,7,44
+4-01-20,1,4,"Clemmons Middle","Forsyth",36.026,-80.342,28,46
+4-01-20,1,4,"Durham Armory","Durham",36.0329550008979,-78.904037,12,45.5
+4-01-20,1,4,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,50
+4-01-20,1,4,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,21.3333333333333,46.5
+4-01-20,1,4,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,23.5,46.5
+4-01-20,1,4,"Leggett","Edgecombe",35.988278,-77.5843,25.5,45.5
+4-01-20,1,4,"Linville Falls","Avery",35.972347,-81.933072,NA,45
+4-01-20,1,4,"Mendenhall School","Guilford",36.1090060008986,-79.802314,19.5,48
+4-01-20,1,4,"Millbrook School","Wake",35.856111,-78.574167,32.75,46
+4-01-20,1,4,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,22.5,46
+4-01-20,1,4,"West Johnston Co.","Johnston",35.59095,-78.4622,22.5,45.5
+4-02-20,2,4,"Bryson City","Swain",35.434767,-83.442133,36.5,44.5
+4-02-20,2,4,"Castle Hayne","New Hanover",34.364167,-77.838611,12.5,41
+4-02-20,2,4,"Clemmons Middle","Forsyth",36.026,-80.342,37,49
+4-02-20,2,4,"Durham Armory","Durham",36.0329550008979,-78.904037,30.5,42
+4-02-20,2,4,"Frying Pan Mountain","Haywood",35.379167,-82.7925,32,61
+4-02-20,2,4,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,31.5,44
+4-02-20,2,4,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,27.75,46.5
+4-02-20,2,4,"Leggett","Edgecombe",35.988278,-77.5843,25.5,41
+4-02-20,2,4,"Linville Falls","Avery",35.972347,-81.933072,25,48
+4-02-20,2,4,"Mendenhall School","Guilford",36.1090060008986,-79.802314,29.5,48.5
+4-02-20,2,4,"Millbrook School","Wake",35.856111,-78.574167,36.8,42
+4-02-20,2,4,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,27,41
+4-02-20,2,4,"West Johnston Co.","Johnston",35.59095,-78.4622,29,41.5
+4-03-20,3,4,"Bryson City","Swain",35.434767,-83.442133,44.5,44.5
+4-03-20,3,4,"Castle Hayne","New Hanover",34.364167,-77.838611,24,40
+4-03-20,3,4,"Clemmons Middle","Forsyth",36.026,-80.342,56,51
+4-03-20,3,4,"Durham Armory","Durham",36.0329550008979,-78.904037,46,46
+4-03-20,3,4,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,67
+4-03-20,3,4,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,39.3333333333333,51
+4-03-20,3,4,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,41,50.5
+4-03-20,3,4,"Leggett","Edgecombe",35.988278,-77.5843,32.5,44
+4-03-20,3,4,"Linville Falls","Avery",35.972347,-81.933072,NA,48.5
+4-03-20,3,4,"Mendenhall School","Guilford",36.1090060008986,-79.802314,30,52.5
+4-03-20,3,4,"Millbrook School","Wake",35.856111,-78.574167,48.25,45.5
+4-03-20,3,4,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,36,42.5
+4-03-20,3,4,"West Johnston Co.","Johnston",35.59095,-78.4622,35,45.5
+4-04-20,4,4,"Bryson City","Swain",35.434767,-83.442133,31.5,50.5
+4-04-20,4,4,"Castle Hayne","New Hanover",34.364167,-77.838611,16.5,57
+4-04-20,4,4,"Clemmons Middle","Forsyth",36.026,-80.342,48,58.5
+4-04-20,4,4,"Durham Armory","Durham",36.0329550008979,-78.904037,38,58
+4-04-20,4,4,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,55.5
+4-04-20,4,4,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,31.3333333333333,54
+4-04-20,4,4,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,38.5,60.5
+4-04-20,4,4,"Leggett","Edgecombe",35.988278,-77.5843,33,52
+4-04-20,4,4,"Linville Falls","Avery",35.972347,-81.933072,NA,59
+4-04-20,4,4,"Mendenhall School","Guilford",36.1090060008986,-79.802314,32,61.5
+4-04-20,4,4,"Millbrook School","Wake",35.856111,-78.574167,41.25,57.5
+4-04-20,4,4,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,30,54.5
+4-04-20,4,4,"West Johnston Co.","Johnston",35.59095,-78.4622,29,57.5
+4-05-20,5,4,"Bryson City","Swain",35.434767,-83.442133,26.5,44
+4-05-20,5,4,"Castle Hayne","New Hanover",34.364167,-77.838611,7.5,47
+4-05-20,5,4,"Clemmons Middle","Forsyth",36.026,-80.342,34,43.5
+4-05-20,5,4,"Durham Armory","Durham",36.0329550008979,-78.904037,27,41.5
+4-05-20,5,4,"Frying Pan Mountain","Haywood",35.379167,-82.7925,15,47.5
+4-05-20,5,4,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,21.5,41
+4-05-20,5,4,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,22.6666666666667,44
+4-05-20,5,4,"Leggett","Edgecombe",35.988278,-77.5843,29.5,38
+4-05-20,5,4,"Linville Falls","Avery",35.972347,-81.933072,19,46
+4-05-20,5,4,"Mendenhall School","Guilford",36.1090060008986,-79.802314,18.5,43
+4-05-20,5,4,"Millbrook School","Wake",35.856111,-78.574167,32.4,42
+4-05-20,5,4,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,26.3333333333333,46
+4-05-20,5,4,"West Johnston Co.","Johnston",35.59095,-78.4622,27.5,43
+4-06-20,6,4,"Bryson City","Swain",35.434767,-83.442133,30,37.5
+4-06-20,6,4,"Castle Hayne","New Hanover",34.364167,-77.838611,8,48.5
+4-06-20,6,4,"Clemmons Middle","Forsyth",36.026,-80.342,38.5,49
+4-06-20,6,4,"Durham Armory","Durham",36.0329550008979,-78.904037,36.5,44.5
+4-06-20,6,4,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,52
+4-06-20,6,4,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,34.25,47
+4-06-20,6,4,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,36,50
+4-06-20,6,4,"Leggett","Edgecombe",35.988278,-77.5843,24.5,46.5
+4-06-20,6,4,"Linville Falls","Avery",35.972347,-81.933072,NA,48.5
+4-06-20,6,4,"Mendenhall School","Guilford",36.1090060008986,-79.802314,31.5,56.5
+4-06-20,6,4,"Millbrook School","Wake",35.856111,-78.574167,39,46
+4-06-20,6,4,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,25,47.5
+4-06-20,6,4,"West Johnston Co.","Johnston",35.59095,-78.4622,43.5,51
+4-07-20,7,4,"Bryson City","Swain",35.434767,-83.442133,24,36.5
+4-07-20,7,4,"Castle Hayne","New Hanover",34.364167,-77.838611,11.5,40.5
+4-07-20,7,4,"Clemmons Middle","Forsyth",36.026,-80.342,44,37
+4-07-20,7,4,"Durham Armory","Durham",36.0329550008979,-78.904037,41.5,38.5
+4-07-20,7,4,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,43
+4-07-20,7,4,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,44,35
+4-07-20,7,4,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,39,39
+4-07-20,7,4,"Leggett","Edgecombe",35.988278,-77.5843,20,38
+4-07-20,7,4,"Linville Falls","Avery",35.972347,-81.933072,NA,39.5
+4-07-20,7,4,"Mendenhall School","Guilford",36.1090060008986,-79.802314,31.5,40
+4-07-20,7,4,"Millbrook School","Wake",35.856111,-78.574167,44.25,38.5
+4-07-20,7,4,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,20.5,42
+4-07-20,7,4,"West Johnston Co.","Johnston",35.59095,-78.4622,32,38
+4-08-20,8,4,"Bryson City","Swain",35.434767,-83.442133,16,32
+4-08-20,8,4,"Castle Hayne","New Hanover",34.364167,-77.838611,8.5,37.5
+4-08-20,8,4,"Clemmons Middle","Forsyth",36.026,-80.342,36,38
+4-08-20,8,4,"Durham Armory","Durham",36.0329550008979,-78.904037,27,36.5
+4-08-20,8,4,"Frying Pan Mountain","Haywood",35.379167,-82.7925,8,42.5
+4-08-20,8,4,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,25.5,37.5
+4-08-20,8,4,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,27,38
+4-08-20,8,4,"Leggett","Edgecombe",35.988278,-77.5843,21.5,37
+4-08-20,8,4,"Linville Falls","Avery",35.972347,-81.933072,12,37.5
+4-08-20,8,4,"Mendenhall School","Guilford",36.1090060008986,-79.802314,22.5,41
+4-08-20,8,4,"Millbrook School","Wake",35.856111,-78.574167,30,39.5
+4-08-20,8,4,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,22,36
+4-08-20,8,4,"West Johnston Co.","Johnston",35.59095,-78.4622,27.5,40
+4-09-20,9,4,"Bryson City","Swain",35.434767,-83.442133,16.5,37
+4-09-20,9,4,"Castle Hayne","New Hanover",34.364167,-77.838611,10.5,34.5
+4-09-20,9,4,"Clemmons Middle","Forsyth",36.026,-80.342,20.3333333333333,43
+4-09-20,9,4,"Durham Armory","Durham",36.0329550008979,-78.904037,32.5,40.5
+4-09-20,9,4,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,43
+4-09-20,9,4,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,29.25,33
+4-09-20,9,4,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,25,43.5
+4-09-20,9,4,"Leggett","Edgecombe",35.988278,-77.5843,22,35
+4-09-20,9,4,"Linville Falls","Avery",35.972347,-81.933072,NA,42
+4-09-20,9,4,"Mendenhall School","Guilford",36.1090060008986,-79.802314,22.5,45
+4-09-20,9,4,"Millbrook School","Wake",35.856111,-78.574167,36,38.5
+4-09-20,9,4,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,26.6666666666667,31
+4-09-20,9,4,"West Johnston Co.","Johnston",35.59095,-78.4622,30,34
+4-10-20,10,4,"Bryson City","Swain",35.434767,-83.442133,25,44.5
+4-10-20,10,4,"Castle Hayne","New Hanover",34.364167,-77.838611,11.5,42.5
+4-10-20,10,4,"Clemmons Middle","Forsyth",36.026,-80.342,33,51.5
+4-10-20,10,4,"Durham Armory","Durham",36.0329550008979,-78.904037,34.5,52.5
+4-10-20,10,4,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,49.5
+4-10-20,10,4,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,28.3333333333333,57.5
+4-10-20,10,4,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,29,55
+4-10-20,10,4,"Leggett","Edgecombe",35.988278,-77.5843,26.5,50
+4-10-20,10,4,"Linville Falls","Avery",35.972347,-81.933072,NA,47
+4-10-20,10,4,"Mendenhall School","Guilford",36.1090060008986,-79.802314,22.5,58
+4-10-20,10,4,"Millbrook School","Wake",35.856111,-78.574167,39.5,50.5
+4-10-20,10,4,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,25.5,50
+4-10-20,10,4,"West Johnston Co.","Johnston",35.59095,-78.4622,32.5,48.5
+4-11-20,11,4,"Bryson City","Swain",35.434767,-83.442133,28,45
+4-11-20,11,4,"Castle Hayne","New Hanover",34.364167,-77.838611,17.5,48.5
+4-11-20,11,4,"Clemmons Middle","Forsyth",36.026,-80.342,40,48
+4-11-20,11,4,"Durham Armory","Durham",36.0329550008979,-78.904037,38.3333333333333,53
+4-11-20,11,4,"Frying Pan Mountain","Haywood",35.379167,-82.7925,16,52
+4-11-20,11,4,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,37,47
+4-11-20,11,4,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,33,48.5
+4-11-20,11,4,"Leggett","Edgecombe",35.988278,-77.5843,32.5,48
+4-11-20,11,4,"Linville Falls","Avery",35.972347,-81.933072,19,49
+4-11-20,11,4,"Mendenhall School","Guilford",36.1090060008986,-79.802314,36,52.5
+4-11-20,11,4,"Millbrook School","Wake",35.856111,-78.574167,47.2,53.5
+4-11-20,11,4,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,34.6666666666667,50.5
+4-11-20,11,4,"West Johnston Co.","Johnston",35.59095,-78.4622,39,52
+4-12-20,12,4,"Bryson City","Swain",35.434767,-83.442133,39,49
+4-12-20,12,4,"Castle Hayne","New Hanover",34.364167,-77.838611,32,47.5
+4-12-20,12,4,"Clemmons Middle","Forsyth",36.026,-80.342,50,49.5
+4-12-20,12,4,"Durham Armory","Durham",36.0329550008979,-78.904037,30.3333333333333,42.5
+4-12-20,12,4,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,62.5
+4-12-20,12,4,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,31.5,43.5
+4-12-20,12,4,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,40,48
+4-12-20,12,4,"Leggett","Edgecombe",35.988278,-77.5843,32.5,49
+4-12-20,12,4,"Linville Falls","Avery",35.972347,-81.933072,NA,51.5
+4-12-20,12,4,"Mendenhall School","Guilford",36.1090060008986,-79.802314,37,46.5
+4-12-20,12,4,"Millbrook School","Wake",35.856111,-78.574167,41.6,46
+4-12-20,12,4,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,33.3333333333333,48
+4-12-20,12,4,"West Johnston Co.","Johnston",35.59095,-78.4622,38.5,46.5
+5-01-20,1,5,"Bryson City","Swain",35.434767,-83.442133,35,54.5
+5-01-20,1,5,"Castle Hayne","New Hanover",34.364167,-77.838611,9,49.5
+5-01-20,1,5,"Clemmons Middle","Forsyth",36.026,-80.342,58,57.5
+5-01-20,1,5,"Durham Armory","Durham",36.0329550008979,-78.904037,46.5,52
+5-01-20,1,5,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,69.5
+5-01-20,1,5,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,38.6666666666667,48.5
+5-01-20,1,5,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,45.5,58.5
+5-01-20,1,5,"Leggett","Edgecombe",35.988278,-77.5843,32,60.5
+5-01-20,1,5,"Linville Falls","Avery",35.972347,-81.933072,NA,61
+5-01-20,1,5,"Mendenhall School","Guilford",36.1090060008986,-79.802314,36,59.5
+5-01-20,1,5,"Millbrook School","Wake",35.856111,-78.574167,43.75,56
+5-01-20,1,5,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,33.5,60.5
+5-01-20,1,5,"West Johnston Co.","Johnston",35.59095,-78.4622,39,53
+5-02-20,2,5,"Bryson City","Swain",35.434767,-83.442133,39.5,44
+5-02-20,2,5,"Castle Hayne","New Hanover",34.364167,-77.838611,11,52.5
+5-02-20,2,5,"Clemmons Middle","Forsyth",36.026,-80.342,51,67.5
+5-02-20,2,5,"Durham Armory","Durham",36.0329550008979,-78.904037,37.3333333333333,56.5
+5-02-20,2,5,"Frying Pan Mountain","Haywood",35.379167,-82.7925,35,41
+5-02-20,2,5,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,35,54
+5-02-20,2,5,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,44.5,68
+5-02-20,2,5,"Leggett","Edgecombe",35.988278,-77.5843,38.5,59
+5-02-20,2,5,"Linville Falls","Avery",35.972347,-81.933072,30,61.5
+5-02-20,2,5,"Mendenhall School","Guilford",36.1090060008986,-79.802314,37.5,74.5
+5-02-20,2,5,"Millbrook School","Wake",35.856111,-78.574167,46.6,58
+5-02-20,2,5,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,35.3333333333333,65.5
+5-02-20,2,5,"West Johnston Co.","Johnston",35.59095,-78.4622,40,55
+5-03-20,3,5,"Bryson City","Swain",35.434767,-83.442133,40.5,37.5
+5-03-20,3,5,"Castle Hayne","New Hanover",34.364167,-77.838611,8.5,34
+5-03-20,3,5,"Clemmons Middle","Forsyth",36.026,-80.342,44,55
+5-03-20,3,5,"Durham Armory","Durham",36.0329550008979,-78.904037,34.5,41
+5-03-20,3,5,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,47
+5-03-20,3,5,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,26.5,40
+5-03-20,3,5,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,42,55.5
+5-03-20,3,5,"Leggett","Edgecombe",35.988278,-77.5843,29.5,46
+5-03-20,3,5,"Linville Falls","Avery",35.972347,-81.933072,NA,58.5
+5-03-20,3,5,"Mendenhall School","Guilford",36.1090060008986,-79.802314,35.5,62
+5-03-20,3,5,"Millbrook School","Wake",35.856111,-78.574167,41.25,41
+5-03-20,3,5,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,26,42
+5-03-20,3,5,"West Johnston Co.","Johnston",35.59095,-78.4622,35,38
+5-04-20,4,5,"Bryson City","Swain",35.434767,-83.442133,37.5,33.5
+5-04-20,4,5,"Castle Hayne","New Hanover",34.364167,-77.838611,6.5,38.5
+5-04-20,4,5,"Clemmons Middle","Forsyth",36.026,-80.342,41,55
+5-04-20,4,5,"Durham Armory","Durham",36.0329550008979,-78.904037,29.5,42.5
+5-04-20,4,5,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,48
+5-04-20,4,5,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,32,40
+5-04-20,4,5,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,46.5,55.5
+5-04-20,4,5,"Leggett","Edgecombe",35.988278,-77.5843,27,43.5
+5-04-20,4,5,"Linville Falls","Avery",35.972347,-81.933072,NA,43.5
+5-04-20,4,5,"Mendenhall School","Guilford",36.1090060008986,-79.802314,34.5,68.5
+5-04-20,4,5,"Millbrook School","Wake",35.856111,-78.574167,37.3333333333333,43.5
+5-04-20,4,5,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,25,44
+5-04-20,4,5,"West Johnston Co.","Johnston",35.59095,-78.4622,32,41
+5-05-20,5,5,"Bryson City","Swain",35.434767,-83.442133,34.5,32.5
+5-05-20,5,5,"Castle Hayne","New Hanover",34.364167,-77.838611,15,36.5
+5-05-20,5,5,"Clemmons Middle","Forsyth",36.026,-80.342,21,35.5
+5-05-20,5,5,"Durham Armory","Durham",36.0329550008979,-78.904037,35.6666666666667,35.5
+5-05-20,5,5,"Frying Pan Mountain","Haywood",35.379167,-82.7925,40,43
+5-05-20,5,5,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,30.75,33
+5-05-20,5,5,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,46,36.5
+5-05-20,5,5,"Leggett","Edgecombe",35.988278,-77.5843,26,37
+5-05-20,5,5,"Linville Falls","Avery",35.972347,-81.933072,42,38
+5-05-20,5,5,"Mendenhall School","Guilford",36.1090060008986,-79.802314,32.5,35
+5-05-20,5,5,"Millbrook School","Wake",35.856111,-78.574167,35,37.5
+5-05-20,5,5,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,26.3333333333333,39.5
+5-05-20,5,5,"West Johnston Co.","Johnston",35.59095,-78.4622,29,36.5
+5-06-20,6,5,"Bryson City","Swain",35.434767,-83.442133,19.5,46
+5-06-20,6,5,"Castle Hayne","New Hanover",34.364167,-77.838611,1.5,31
+5-06-20,6,5,"Clemmons Middle","Forsyth",36.026,-80.342,24,42.5
+5-06-20,6,5,"Durham Armory","Durham",36.0329550008979,-78.904037,19.5,35.5
+5-06-20,6,5,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,48.5
+5-06-20,6,5,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,23,45
+5-06-20,6,5,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,31,43.5
+5-06-20,6,5,"Leggett","Edgecombe",35.988278,-77.5843,18.5,34
+5-06-20,6,5,"Linville Falls","Avery",35.972347,-81.933072,NA,45.5
+5-06-20,6,5,"Mendenhall School","Guilford",36.1090060008986,-79.802314,24.5,40
+5-06-20,6,5,"Millbrook School","Wake",35.856111,-78.574167,28,39
+5-06-20,6,5,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,16.5,36
+5-06-20,6,5,"West Johnston Co.","Johnston",35.59095,-78.4622,23.5,35.5
+5-07-20,7,5,"Bryson City","Swain",35.434767,-83.442133,29.5,42
+5-07-20,7,5,"Castle Hayne","New Hanover",34.364167,-77.838611,11.5,39
+5-07-20,7,5,"Clemmons Middle","Forsyth",36.026,-80.342,35,48.5
+5-07-20,7,5,"Durham Armory","Durham",36.0329550008979,-78.904037,26.5,45.5
+5-07-20,7,5,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,54
+5-07-20,7,5,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,27.3333333333333,57
+5-07-20,7,5,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,31.5,49.5
+5-07-20,7,5,"Leggett","Edgecombe",35.988278,-77.5843,33,40
+5-07-20,7,5,"Linville Falls","Avery",35.972347,-81.933072,NA,48.5
+5-07-20,7,5,"Mendenhall School","Guilford",36.1090060008986,-79.802314,24.5,46
+5-07-20,7,5,"Millbrook School","Wake",35.856111,-78.574167,37.6666666666667,45
+5-07-20,7,5,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,44,43
+5-07-20,7,5,"West Johnston Co.","Johnston",35.59095,-78.4622,30,44
+5-08-20,8,5,"Bryson City","Swain",35.434767,-83.442133,29,46
+5-08-20,8,5,"Castle Hayne","New Hanover",34.364167,-77.838611,11,39.5
+5-08-20,8,5,"Clemmons Middle","Forsyth",36.026,-80.342,39,57.5
+5-08-20,8,5,"Durham Armory","Durham",36.0329550008979,-78.904037,31.3333333333333,45
+5-08-20,8,5,"Frying Pan Mountain","Haywood",35.379167,-82.7925,14,48.5
+5-08-20,8,5,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,29.5,56.5
+5-08-20,8,5,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,34.75,58.5
+5-08-20,8,5,"Leggett","Edgecombe",35.988278,-77.5843,19.5,42.5
+5-08-20,8,5,"Linville Falls","Avery",35.972347,-81.933072,20,47.5
+5-08-20,8,5,"Mendenhall School","Guilford",36.1090060008986,-79.802314,34,49
+5-08-20,8,5,"Millbrook School","Wake",35.856111,-78.574167,35.6666666666667,45
+5-08-20,8,5,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,20,44
+5-08-20,8,5,"West Johnston Co.","Johnston",35.59095,-78.4622,26,44.5
+5-09-20,9,5,"Bryson City","Swain",35.434767,-83.442133,32,42
+5-09-20,9,5,"Castle Hayne","New Hanover",34.364167,-77.838611,4,37
+5-09-20,9,5,"Clemmons Middle","Forsyth",36.026,-80.342,29,53.5
+5-09-20,9,5,"Durham Armory","Durham",36.0329550008979,-78.904037,19,51.5
+5-09-20,9,5,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,62
+5-09-20,9,5,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,24,64
+5-09-20,9,5,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,35.3333333333333,61.5
+5-09-20,9,5,"Leggett","Edgecombe",35.988278,-77.5843,15,35.5
+5-09-20,9,5,"Linville Falls","Avery",35.972347,-81.933072,NA,55.5
+5-09-20,9,5,"Mendenhall School","Guilford",36.1090060008986,-79.802314,22,65.5
+5-09-20,9,5,"Millbrook School","Wake",35.856111,-78.574167,31.5,52
+5-09-20,9,5,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,16,35.5
+5-09-20,9,5,"West Johnston Co.","Johnston",35.59095,-78.4622,25,46
+5-10-20,10,5,"Bryson City","Swain",35.434767,-83.442133,36.5,40.5
+5-10-20,10,5,"Castle Hayne","New Hanover",34.364167,-77.838611,10.5,45
+5-10-20,10,5,"Clemmons Middle","Forsyth",36.026,-80.342,41,51.5
+5-10-20,10,5,"Durham Armory","Durham",36.0329550008979,-78.904037,30,44
+5-10-20,10,5,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,52.5
+5-10-20,10,5,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,30.3333333333333,40.5
+5-10-20,10,5,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,45.5,49
+5-10-20,10,5,"Leggett","Edgecombe",35.988278,-77.5843,30,55
+5-10-20,10,5,"Linville Falls","Avery",35.972347,-81.933072,NA,46.5
+5-10-20,10,5,"Mendenhall School","Guilford",36.1090060008986,-79.802314,18,57.5
+5-10-20,10,5,"Millbrook School","Wake",35.856111,-78.574167,41.25,50
+5-10-20,10,5,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,28.5,54
+5-10-20,10,5,"West Johnston Co.","Johnston",35.59095,-78.4622,45.5,50
+5-11-20,11,5,"Bryson City","Swain",35.434767,-83.442133,29,34.5
+5-11-20,11,5,"Castle Hayne","New Hanover",34.364167,-77.838611,14,53
+5-11-20,11,5,"Clemmons Middle","Forsyth",36.026,-80.342,37.3333333333333,44.5
+5-11-20,11,5,"Durham Armory","Durham",36.0329550008979,-78.904037,36.6666666666667,51.5
+5-11-20,11,5,"Frying Pan Mountain","Haywood",35.379167,-82.7925,32,56.5
+5-11-20,11,5,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,33.25,66.5
+5-11-20,11,5,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,43.6666666666667,41.5
+5-11-20,11,5,"Leggett","Edgecombe",35.988278,-77.5843,37.5,54
+5-11-20,11,5,"Linville Falls","Avery",35.972347,-81.933072,35,54
+5-11-20,11,5,"Mendenhall School","Guilford",36.1090060008986,-79.802314,25,52.5
+5-11-20,11,5,"Millbrook School","Wake",35.856111,-78.574167,47,59
+5-11-20,11,5,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,36,54.5
+5-11-20,11,5,"West Johnston Co.","Johnston",35.59095,-78.4622,49,51
+5-12-20,12,5,"Bryson City","Swain",35.434767,-83.442133,29.5,40
+5-12-20,12,5,"Castle Hayne","New Hanover",34.364167,-77.838611,17.5,52
+5-12-20,12,5,"Clemmons Middle","Forsyth",36.026,-80.342,39.5,55
+5-12-20,12,5,"Durham Armory","Durham",36.0329550008979,-78.904037,33,55
+5-12-20,12,5,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,50
+5-12-20,12,5,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,28,64.5
+5-12-20,12,5,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,32.6666666666667,58.5
+5-12-20,12,5,"Leggett","Edgecombe",35.988278,-77.5843,37.5,57.5
+5-12-20,12,5,"Linville Falls","Avery",35.972347,-81.933072,NA,48
+5-12-20,12,5,"Mendenhall School","Guilford",36.1090060008986,-79.802314,35,66
+5-12-20,12,5,"Millbrook School","Wake",35.856111,-78.574167,46.25,55.5
+5-12-20,12,5,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,36,60
+5-12-20,12,5,"West Johnston Co.","Johnston",35.59095,-78.4622,40,41
+6-01-20,1,6,"Bryson City","Swain",35.434767,-83.442133,31.5,47
+6-01-20,1,6,"Castle Hayne","New Hanover",34.364167,-77.838611,14,47.5
+6-01-20,1,6,"Clemmons Middle","Forsyth",36.026,-80.342,34.5,45
+6-01-20,1,6,"Durham Armory","Durham",36.0329550008979,-78.904037,28,47
+6-01-20,1,6,"Frying Pan Mountain","Haywood",35.379167,-82.7925,14,55.5
+6-01-20,1,6,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,26,55.5
+6-01-20,1,6,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,24,47.5
+6-01-20,1,6,"Leggett","Edgecombe",35.988278,-77.5843,30,54
+6-01-20,1,6,"Linville Falls","Avery",35.972347,-81.933072,15,46
+6-01-20,1,6,"Mendenhall School","Guilford",36.1090060008986,-79.802314,29.5,49
+6-01-20,1,6,"Millbrook School","Wake",35.856111,-78.574167,31,61.5
+6-01-20,1,6,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,31.6666666666667,54.5
+6-01-20,1,6,"West Johnston Co.","Johnston",35.59095,-78.4622,37.5,44.5
+6-02-20,2,6,"Bryson City","Swain",35.434767,-83.442133,38.5,45
+6-02-20,2,6,"Castle Hayne","New Hanover",34.364167,-77.838611,22.5,53
+6-02-20,2,6,"Clemmons Middle","Forsyth",36.026,-80.342,41.3333333333333,48
+6-02-20,2,6,"Durham Armory","Durham",36.0329550008979,-78.904037,38.3333333333333,50.5
+6-02-20,2,6,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,51.5
+6-02-20,2,6,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,41.5,62
+6-02-20,2,6,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,35,49
+6-02-20,2,6,"Leggett","Edgecombe",35.988278,-77.5843,33,53.5
+6-02-20,2,6,"Linville Falls","Avery",35.972347,-81.933072,NA,46.5
+6-02-20,2,6,"Mendenhall School","Guilford",36.1090060008986,-79.802314,32,54.5
+6-02-20,2,6,"Millbrook School","Wake",35.856111,-78.574167,36.4,54
+6-02-20,2,6,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,34.6666666666667,65.5
+6-02-20,2,6,"West Johnston Co.","Johnston",35.59095,-78.4622,40.5,53.5
+6-03-20,3,6,"Bryson City","Swain",35.434767,-83.442133,43,24.5
+6-03-20,3,6,"Castle Hayne","New Hanover",34.364167,-77.838611,34,49
+6-03-20,3,6,"Clemmons Middle","Forsyth",36.026,-80.342,48,44.5
+6-03-20,3,6,"Durham Armory","Durham",36.0329550008979,-78.904037,38,42
+6-03-20,3,6,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,50
+6-03-20,3,6,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,30,58.5
+6-03-20,3,6,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,35,44.5
+6-03-20,3,6,"Leggett","Edgecombe",35.988278,-77.5843,33.5,41.5
+6-03-20,3,6,"Linville Falls","Avery",35.972347,-81.933072,NA,46
+6-03-20,3,6,"Mendenhall School","Guilford",36.1090060008986,-79.802314,35,45
+6-03-20,3,6,"Millbrook School","Wake",35.856111,-78.574167,41.75,46.5
+6-03-20,3,6,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,33,45.5
+6-03-20,3,6,"West Johnston Co.","Johnston",35.59095,-78.4622,43.5,44.5
+6-04-20,4,6,"Bryson City","Swain",35.434767,-83.442133,40.5,54
+6-04-20,4,6,"Castle Hayne","New Hanover",34.364167,-77.838611,22.5,47
+6-04-20,4,6,"Clemmons Middle","Forsyth",36.026,-80.342,32,59.5
+6-04-20,4,6,"Durham Armory","Durham",36.0329550008979,-78.904037,24.3333333333333,67.5
+6-04-20,4,6,"Frying Pan Mountain","Haywood",35.379167,-82.7925,15,64
+6-04-20,4,6,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,36,72
+6-04-20,4,6,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,23,64
+6-04-20,4,6,"Leggett","Edgecombe",35.988278,-77.5843,25.5,54
+6-04-20,4,6,"Linville Falls","Avery",35.972347,-81.933072,16,51.5
+6-04-20,4,6,"Mendenhall School","Guilford",36.1090060008986,-79.802314,24,64
+6-04-20,4,6,"Millbrook School","Wake",35.856111,-78.574167,29.4,72
+6-04-20,4,6,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,22.3333333333333,61
+6-04-20,4,6,"West Johnston Co.","Johnston",35.59095,-78.4622,29,66
+6-05-20,5,6,"Bryson City","Swain",35.434767,-83.442133,43,38.5
+6-05-20,5,6,"Castle Hayne","New Hanover",34.364167,-77.838611,25.5,46
+6-05-20,5,6,"Clemmons Middle","Forsyth",36.026,-80.342,40.5,48.5
+6-05-20,5,6,"Durham Armory","Durham",36.0329550008979,-78.904037,46.3333333333333,49
+6-05-20,5,6,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,64
+6-05-20,5,6,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,46.8,69
+6-05-20,5,6,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,38.5,52
+6-05-20,5,6,"Leggett","Edgecombe",35.988278,-77.5843,46,47
+6-05-20,5,6,"Linville Falls","Avery",35.972347,-81.933072,NA,41
+6-05-20,5,6,"Mendenhall School","Guilford",36.1090060008986,-79.802314,39,66.5
+6-05-20,5,6,"Millbrook School","Wake",35.856111,-78.574167,46,62
+6-05-20,5,6,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,40,47.5
+6-05-20,5,6,"West Johnston Co.","Johnston",35.59095,-78.4622,45.5,49.5
+6-06-20,6,6,"Bryson City","Swain",35.434767,-83.442133,34.5,41
+6-06-20,6,6,"Castle Hayne","New Hanover",34.364167,-77.838611,24,57
+6-06-20,6,6,"Clemmons Middle","Forsyth",36.026,-80.342,48.5,56
+6-06-20,6,6,"Durham Armory","Durham",36.0329550008979,-78.904037,49,52.5
+6-06-20,6,6,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,58
+6-06-20,6,6,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,39.25,56.5
+6-06-20,6,6,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,44.5,58.5
+6-06-20,6,6,"Leggett","Edgecombe",35.988278,-77.5843,47.5,53
+6-06-20,6,6,"Linville Falls","Avery",35.972347,-81.933072,NA,54
+6-06-20,6,6,"Mendenhall School","Guilford",36.1090060008986,-79.802314,46,69
+6-06-20,6,6,"Millbrook School","Wake",35.856111,-78.574167,49,65
+6-06-20,6,6,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,48.5,69
+6-06-20,6,6,"West Johnston Co.","Johnston",35.59095,-78.4622,50.5,67
+6-07-20,7,6,"Bryson City","Swain",35.434767,-83.442133,27,42.5
+6-07-20,7,6,"Castle Hayne","New Hanover",34.364167,-77.838611,40,46.5
+6-07-20,7,6,"Clemmons Middle","Forsyth",36.026,-80.342,38.5,54
+6-07-20,7,6,"Durham Armory","Durham",36.0329550008979,-78.904037,40.3333333333333,36.5
+6-07-20,7,6,"Frying Pan Mountain","Haywood",35.379167,-82.7925,35,42.5
+6-07-20,7,6,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,41,47
+6-07-20,7,6,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,35.75,56.5
+6-07-20,7,6,"Leggett","Edgecombe",35.988278,-77.5843,43,37
+6-07-20,7,6,"Linville Falls","Avery",35.972347,-81.933072,33,34
+6-07-20,7,6,"Mendenhall School","Guilford",36.1090060008986,-79.802314,35.5,49.5
+6-07-20,7,6,"Millbrook School","Wake",35.856111,-78.574167,47.2,44.5
+6-07-20,7,6,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,38,43.5
+6-07-20,7,6,"West Johnston Co.","Johnston",35.59095,-78.4622,49,41
+6-08-20,8,6,"Bryson City","Swain",35.434767,-83.442133,19,36
+6-08-20,8,6,"Castle Hayne","New Hanover",34.364167,-77.838611,10.5,39.5
+6-08-20,8,6,"Clemmons Middle","Forsyth",36.026,-80.342,30.3333333333333,60
+6-08-20,8,6,"Durham Armory","Durham",36.0329550008979,-78.904037,31,63
+6-08-20,8,6,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,51.5
+6-08-20,8,6,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,30.25,60.5
+6-08-20,8,6,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,27,67
+6-08-20,8,6,"Leggett","Edgecombe",35.988278,-77.5843,40,44.5
+6-08-20,8,6,"Linville Falls","Avery",35.972347,-81.933072,NA,40.5
+6-08-20,8,6,"Mendenhall School","Guilford",36.1090060008986,-79.802314,32.5,51.5
+6-08-20,8,6,"Millbrook School","Wake",35.856111,-78.574167,37.6,53
+6-08-20,8,6,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,37.6666666666667,41
+6-08-20,8,6,"West Johnston Co.","Johnston",35.59095,-78.4622,41,44.5
+6-09-20,9,6,"Bryson City","Swain",35.434767,-83.442133,10,33
+6-09-20,9,6,"Castle Hayne","New Hanover",34.364167,-77.838611,4,31
+6-09-20,9,6,"Clemmons Middle","Forsyth",36.026,-80.342,41.5,42.5
+6-09-20,9,6,"Durham Armory","Durham",36.0329550008979,-78.904037,31,47
+6-09-20,9,6,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,46
+6-09-20,9,6,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,NA,41
+6-09-20,9,6,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,36,44.5
+6-09-20,9,6,"Leggett","Edgecombe",35.988278,-77.5843,28,34.5
+6-09-20,9,6,"Linville Falls","Avery",35.972347,-81.933072,NA,37
+6-09-20,9,6,"Mendenhall School","Guilford",36.1090060008986,-79.802314,34,39.5
+6-09-20,9,6,"Millbrook School","Wake",35.856111,-78.574167,35.5,37
+6-09-20,9,6,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,25,32
+6-09-20,9,6,"West Johnston Co.","Johnston",35.59095,-78.4622,30.5,34.5
+6-10-20,10,6,"Bryson City","Swain",35.434767,-83.442133,18,33.5
+6-10-20,10,6,"Castle Hayne","New Hanover",34.364167,-77.838611,4.5,33
+6-10-20,10,6,"Clemmons Middle","Forsyth",36.026,-80.342,42.5,49.5
+6-10-20,10,6,"Durham Armory","Durham",36.0329550008979,-78.904037,28.6666666666667,38
+6-10-20,10,6,"Frying Pan Mountain","Haywood",35.379167,-82.7925,37,44.5
+6-10-20,10,6,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,44,42
+6-10-20,10,6,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,41,49.5
+6-10-20,10,6,"Leggett","Edgecombe",35.988278,-77.5843,28.5,35.5
+6-10-20,10,6,"Linville Falls","Avery",35.972347,-81.933072,39,38
+6-10-20,10,6,"Mendenhall School","Guilford",36.1090060008986,-79.802314,31,55.5
+6-10-20,10,6,"Millbrook School","Wake",35.856111,-78.574167,35.6,38
+6-10-20,10,6,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,19.3333333333333,33
+6-10-20,10,6,"West Johnston Co.","Johnston",35.59095,-78.4622,35,36
+6-11-20,11,6,"Bryson City","Swain",35.434767,-83.442133,22,39.5
+6-11-20,11,6,"Castle Hayne","New Hanover",34.364167,-77.838611,22.5,36.5
+6-11-20,11,6,"Clemmons Middle","Forsyth",36.026,-80.342,34.5,42.5
+6-11-20,11,6,"Durham Armory","Durham",36.0329550008979,-78.904037,20.6666666666667,36
+6-11-20,11,6,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,44
+6-11-20,11,6,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,21,57
+6-11-20,11,6,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,31.5,43
+6-11-20,11,6,"Leggett","Edgecombe",35.988278,-77.5843,26,36.5
+6-11-20,11,6,"Linville Falls","Avery",35.972347,-81.933072,NA,36.5
+6-11-20,11,6,"Mendenhall School","Guilford",36.1090060008986,-79.802314,25,40
+6-11-20,11,6,"Millbrook School","Wake",35.856111,-78.574167,30.2,38
+6-11-20,11,6,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,23,42
+6-11-20,11,6,"West Johnston Co.","Johnston",35.59095,-78.4622,29.5,38.5
+6-12-20,12,6,"Bryson City","Swain",35.434767,-83.442133,31,34.5
+6-12-20,12,6,"Castle Hayne","New Hanover",34.364167,-77.838611,11.5,32.5
+6-12-20,12,6,"Clemmons Middle","Forsyth",36.026,-80.342,31.5,34.5
+6-12-20,12,6,"Durham Armory","Durham",36.0329550008979,-78.904037,23,32.5
+6-12-20,12,6,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,44
+6-12-20,12,6,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,23.6666666666667,33
+6-12-20,12,6,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,27.5,36
+6-12-20,12,6,"Leggett","Edgecombe",35.988278,-77.5843,22,33.5
+6-12-20,12,6,"Linville Falls","Avery",35.972347,-81.933072,NA,37
+6-12-20,12,6,"Mendenhall School","Guilford",36.1090060008986,-79.802314,22.5,33.5
+6-12-20,12,6,"Millbrook School","Wake",35.856111,-78.574167,27.5,33
+6-12-20,12,6,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,23.5,34.5
+6-12-20,12,6,"West Johnston Co.","Johnston",35.59095,-78.4622,26.5,34.5
+7-01-20,1,7,"Bryson City","Swain",35.434767,-83.442133,45,34.5
+7-01-20,1,7,"Castle Hayne","New Hanover",34.364167,-77.838611,25,40
+7-01-20,1,7,"Clemmons Middle","Forsyth",36.026,-80.342,40,42.5
+7-01-20,1,7,"Durham Armory","Durham",36.0329550008979,-78.904037,34,45
+7-01-20,1,7,"Frying Pan Mountain","Haywood",35.379167,-82.7925,12,40.5
+7-01-20,1,7,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,35.5,56
+7-01-20,1,7,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,37,44
+7-01-20,1,7,"Leggett","Edgecombe",35.988278,-77.5843,35.5,43
+7-01-20,1,7,"Linville Falls","Avery",35.972347,-81.933072,25,39.5
+7-01-20,1,7,"Mendenhall School","Guilford",36.1090060008986,-79.802314,39.5,44.5
+7-01-20,1,7,"Millbrook School","Wake",35.856111,-78.574167,38,44.5
+7-01-20,1,7,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,34,43.5
+7-01-20,1,7,"West Johnston Co.","Johnston",35.59095,-78.4622,38,44.5
+7-02-20,2,7,"Bryson City","Swain",35.434767,-83.442133,32,34
+7-02-20,2,7,"Castle Hayne","New Hanover",34.364167,-77.838611,21,39.5
+7-02-20,2,7,"Clemmons Middle","Forsyth",36.026,-80.342,35.6666666666667,42
+7-02-20,2,7,"Durham Armory","Durham",36.0329550008979,-78.904037,37.3333333333333,48.5
+7-02-20,2,7,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,38.5
+7-02-20,2,7,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,46,81.5
+7-02-20,2,7,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,34,45.5
+7-02-20,2,7,"Leggett","Edgecombe",35.988278,-77.5843,43.5,53
+7-02-20,2,7,"Linville Falls","Avery",35.972347,-81.933072,NA,31.5
+7-02-20,2,7,"Mendenhall School","Guilford",36.1090060008986,-79.802314,32.5,57
+7-02-20,2,7,"Millbrook School","Wake",35.856111,-78.574167,46,62.5
+7-02-20,2,7,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,36.5,54
+7-02-20,2,7,"West Johnston Co.","Johnston",35.59095,-78.4622,52.5,48.5
+7-03-20,3,7,"Bryson City","Swain",35.434767,-83.442133,27,32.5
+7-03-20,3,7,"Castle Hayne","New Hanover",34.364167,-77.838611,35.5,43
+7-03-20,3,7,"Clemmons Middle","Forsyth",36.026,-80.342,47,50.5
+7-03-20,3,7,"Durham Armory","Durham",36.0329550008979,-78.904037,39.5,52.5
+7-03-20,3,7,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,44.5
+7-03-20,3,7,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,45.6666666666667,69.5
+7-03-20,3,7,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,41,54
+7-03-20,3,7,"Leggett","Edgecombe",35.988278,-77.5843,45.5,45.5
+7-03-20,3,7,"Linville Falls","Avery",35.972347,-81.933072,NA,36
+7-03-20,3,7,"Mendenhall School","Guilford",36.1090060008986,-79.802314,41.5,46.5
+7-03-20,3,7,"Millbrook School","Wake",35.856111,-78.574167,47,55.5
+7-03-20,3,7,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,46.5,49.5
+7-03-20,3,7,"West Johnston Co.","Johnston",35.59095,-78.4622,49,65.5
+7-04-20,4,7,"Bryson City","Swain",35.434767,-83.442133,43,36.5
+7-04-20,4,7,"Castle Hayne","New Hanover",34.364167,-77.838611,14,35
+7-04-20,4,7,"Clemmons Middle","Forsyth",36.026,-80.342,47.5,42
+7-04-20,4,7,"Durham Armory","Durham",36.0329550008979,-78.904037,50,33.5
+7-04-20,4,7,"Frying Pan Mountain","Haywood",35.379167,-82.7925,45,40.5
+7-04-20,4,7,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,54.75,40
+7-04-20,4,7,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,52.6666666666667,42
+7-04-20,4,7,"Leggett","Edgecombe",35.988278,-77.5843,38,37
+7-04-20,4,7,"Linville Falls","Avery",35.972347,-81.933072,43,37
+7-04-20,4,7,"Mendenhall School","Guilford",36.1090060008986,-79.802314,41,36
+7-04-20,4,7,"Millbrook School","Wake",35.856111,-78.574167,47.8,38.5
+7-04-20,4,7,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,33,33.5
+7-04-20,4,7,"West Johnston Co.","Johnston",35.59095,-78.4622,44.5,37.5
+7-05-20,5,7,"Bryson City","Swain",35.434767,-83.442133,38,28
+7-05-20,5,7,"Castle Hayne","New Hanover",34.364167,-77.838611,8,28.5
+7-05-20,5,7,"Clemmons Middle","Forsyth",36.026,-80.342,41.5,34
+7-05-20,5,7,"Durham Armory","Durham",36.0329550008979,-78.904037,29,42.5
+7-05-20,5,7,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,31.5
+7-05-20,5,7,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,45.5,39
+7-05-20,5,7,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,40.6666666666667,42
+7-05-20,5,7,"Leggett","Edgecombe",35.988278,-77.5843,24.5,33.5
+7-05-20,5,7,"Linville Falls","Avery",35.972347,-81.933072,NA,26.5
+7-05-20,5,7,"Mendenhall School","Guilford",36.1090060008986,-79.802314,30,37.5
+7-05-20,5,7,"Millbrook School","Wake",35.856111,-78.574167,37.4,41
+7-05-20,5,7,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,28.5,34.5
+7-05-20,5,7,"West Johnston Co.","Johnston",35.59095,-78.4622,32,39
+7-06-20,6,7,"Bryson City","Swain",35.434767,-83.442133,30,27
+7-06-20,6,7,"Castle Hayne","New Hanover",34.364167,-77.838611,0,26.5
+7-06-20,6,7,"Clemmons Middle","Forsyth",36.026,-80.342,39,31.5
+7-06-20,6,7,"Durham Armory","Durham",36.0329550008979,-78.904037,17,34
+7-06-20,6,7,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,36
+7-06-20,6,7,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,33.6666666666667,39.5
+7-06-20,6,7,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,34,34
+7-06-20,6,7,"Leggett","Edgecombe",35.988278,-77.5843,47,39
+7-06-20,6,7,"Linville Falls","Avery",35.972347,-81.933072,NA,26.5
+7-06-20,6,7,"Mendenhall School","Guilford",36.1090060008986,-79.802314,33,40.5
+7-06-20,6,7,"Millbrook School","Wake",35.856111,-78.574167,35.25,38
+7-06-20,6,7,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,27,41
+7-06-20,6,7,"West Johnston Co.","Johnston",35.59095,-78.4622,32,37
+7-07-20,7,7,"Bryson City","Swain",35.434767,-83.442133,35,27
+7-07-20,7,7,"Castle Hayne","New Hanover",34.364167,-77.838611,23,32.5
+7-07-20,7,7,"Clemmons Middle","Forsyth",36.026,-80.342,35,34.5
+7-07-20,7,7,"Durham Armory","Durham",36.0329550008979,-78.904037,24.5,31.5
+7-07-20,7,7,"Frying Pan Mountain","Haywood",35.379167,-82.7925,6,36
+7-07-20,7,7,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,40.25,36.5
+7-07-20,7,7,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,29,36.5
+7-07-20,7,7,"Leggett","Edgecombe",35.988278,-77.5843,41,30.5
+7-07-20,7,7,"Linville Falls","Avery",35.972347,-81.933072,22,26.5
+7-07-20,7,7,"Mendenhall School","Guilford",36.1090060008986,-79.802314,28,35
+7-07-20,7,7,"Millbrook School","Wake",35.856111,-78.574167,33.2,33.5
+7-07-20,7,7,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,31.3333333333333,34.5
+7-07-20,7,7,"West Johnston Co.","Johnston",35.59095,-78.4622,37.5,29
+7-08-20,8,7,"Bryson City","Swain",35.434767,-83.442133,30.5,31
+7-08-20,8,7,"Castle Hayne","New Hanover",34.364167,-77.838611,10,31
+7-08-20,8,7,"Clemmons Middle","Forsyth",36.026,-80.342,30,44
+7-08-20,8,7,"Durham Armory","Durham",36.0329550008979,-78.904037,29.5,35.5
+7-08-20,8,7,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,50.5
+7-08-20,8,7,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,45.25,70.5
+7-08-20,8,7,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,27.3333333333333,45
+7-08-20,8,7,"Leggett","Edgecombe",35.988278,-77.5843,36,33
+7-08-20,8,7,"Linville Falls","Avery",35.972347,-81.933072,NA,32.5
+7-08-20,8,7,"Mendenhall School","Guilford",36.1090060008986,-79.802314,14,39
+7-08-20,8,7,"Millbrook School","Wake",35.856111,-78.574167,35.4,40
+7-08-20,8,7,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,32,35
+7-08-20,8,7,"West Johnston Co.","Johnston",35.59095,-78.4622,34,35
+7-09-20,9,7,"Bryson City","Swain",35.434767,-83.442133,33.5,36
+7-09-20,9,7,"Castle Hayne","New Hanover",34.364167,-77.838611,13.5,31
+7-09-20,9,7,"Clemmons Middle","Forsyth",36.026,-80.342,30,41.5
+7-09-20,9,7,"Durham Armory","Durham",36.0329550008979,-78.904037,25.5,37.5
+7-09-20,9,7,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,40.5
+7-09-20,9,7,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,27.3333333333333,42.5
+7-09-20,9,7,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,27,40.5
+7-09-20,9,7,"Leggett","Edgecombe",35.988278,-77.5843,27,39
+7-09-20,9,7,"Linville Falls","Avery",35.972347,-81.933072,NA,37
+7-09-20,9,7,"Mendenhall School","Guilford",36.1090060008986,-79.802314,22,39.5
+7-09-20,9,7,"Millbrook School","Wake",35.856111,-78.574167,27.75,43
+7-09-20,9,7,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,27,40
+7-09-20,9,7,"West Johnston Co.","Johnston",35.59095,-78.4622,25,42
+7-10-20,10,7,"Bryson City","Swain",35.434767,-83.442133,36,36
+7-10-20,10,7,"Castle Hayne","New Hanover",34.364167,-77.838611,20.5,58
+7-10-20,10,7,"Clemmons Middle","Forsyth",36.026,-80.342,43,45
+7-10-20,10,7,"Durham Armory","Durham",36.0329550008979,-78.904037,41.6666666666667,64
+7-10-20,10,7,"Frying Pan Mountain","Haywood",35.379167,-82.7925,30,41.5
+7-10-20,10,7,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,38.25,52.5
+7-10-20,10,7,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,41.6666666666667,49.5
+7-10-20,10,7,"Leggett","Edgecombe",35.988278,-77.5843,42.5,59.5
+7-10-20,10,7,"Linville Falls","Avery",35.972347,-81.933072,34,38
+7-10-20,10,7,"Mendenhall School","Guilford",36.1090060008986,-79.802314,34,47
+7-10-20,10,7,"Millbrook School","Wake",35.856111,-78.574167,40.6,60.5
+7-10-20,10,7,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,40.3333333333333,65.5
+7-10-20,10,7,"West Johnston Co.","Johnston",35.59095,-78.4622,39.5,60
+7-11-20,11,7,"Bryson City","Swain",35.434767,-83.442133,32.5,33.5
+7-11-20,11,7,"Castle Hayne","New Hanover",34.364167,-77.838611,35,53.5
+7-11-20,11,7,"Clemmons Middle","Forsyth",36.026,-80.342,42.5,44.5
+7-11-20,11,7,"Durham Armory","Durham",36.0329550008979,-78.904037,39,46
+7-11-20,11,7,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,43.5
+7-11-20,11,7,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,34.25,68.5
+7-11-20,11,7,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,36.6666666666667,49.5
+7-11-20,11,7,"Leggett","Edgecombe",35.988278,-77.5843,45.5,51
+7-11-20,11,7,"Linville Falls","Avery",35.972347,-81.933072,NA,34.5
+7-11-20,11,7,"Mendenhall School","Guilford",36.1090060008986,-79.802314,39.5,55
+7-11-20,11,7,"Millbrook School","Wake",35.856111,-78.574167,47.25,64
+7-11-20,11,7,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,46.5,62.5
+7-11-20,11,7,"West Johnston Co.","Johnston",35.59095,-78.4622,54.5,62
+7-12-20,12,7,"Bryson City","Swain",35.434767,-83.442133,35,31
+7-12-20,12,7,"Castle Hayne","New Hanover",34.364167,-77.838611,29,37.5
+7-12-20,12,7,"Clemmons Middle","Forsyth",36.026,-80.342,40,67
+7-12-20,12,7,"Durham Armory","Durham",36.0329550008979,-78.904037,40.5,46
+7-12-20,12,7,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,41
+7-12-20,12,7,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,33.3333333333333,59
+7-12-20,12,7,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,39.5,60.5
+7-12-20,12,7,"Leggett","Edgecombe",35.988278,-77.5843,37.5,43.5
+7-12-20,12,7,"Linville Falls","Avery",35.972347,-81.933072,NA,35
+7-12-20,12,7,"Mendenhall School","Guilford",36.1090060008986,-79.802314,42,57.5
+7-12-20,12,7,"Millbrook School","Wake",35.856111,-78.574167,44.6666666666667,45.5
+7-12-20,12,7,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,43,41
+7-12-20,12,7,"West Johnston Co.","Johnston",35.59095,-78.4622,45.5,39
+8-01-20,1,8,"Bryson City","Swain",35.434767,-83.442133,30,32.5
+8-01-20,1,8,"Castle Hayne","New Hanover",34.364167,-77.838611,13,26
+8-01-20,1,8,"Clemmons Middle","Forsyth",36.026,-80.342,40,42.5
+8-01-20,1,8,"Durham Armory","Durham",36.0329550008979,-78.904037,36.3333333333333,47
+8-01-20,1,8,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,38
+8-01-20,1,8,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,33,51
+8-01-20,1,8,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,35.3333333333333,59
+8-01-20,1,8,"Leggett","Edgecombe",35.988278,-77.5843,33.5,33
+8-01-20,1,8,"Linville Falls","Avery",35.972347,-81.933072,NA,32
+8-01-20,1,8,"Mendenhall School","Guilford",36.1090060008986,-79.802314,27,47.5
+8-01-20,1,8,"Millbrook School","Wake",35.856111,-78.574167,44.25,47
+8-01-20,1,8,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,34.5,31
+8-01-20,1,8,"West Johnston Co.","Johnston",35.59095,-78.4622,39.5,34
+8-02-20,2,8,"Bryson City","Swain",35.434767,-83.442133,7,27
+8-02-20,2,8,"Castle Hayne","New Hanover",34.364167,-77.838611,21,16
+8-02-20,2,8,"Clemmons Middle","Forsyth",36.026,-80.342,25,40.5
+8-02-20,2,8,"Durham Armory","Durham",36.0329550008979,-78.904037,26.5,34
+8-02-20,2,8,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,35.5
+8-02-20,2,8,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,30.5,34.5
+8-02-20,2,8,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,23,60
+8-02-20,2,8,"Leggett","Edgecombe",35.988278,-77.5843,27,23.5
+8-02-20,2,8,"Linville Falls","Avery",35.972347,-81.933072,NA,31
+8-02-20,2,8,"Mendenhall School","Guilford",36.1090060008986,-79.802314,16,37.5
+8-02-20,2,8,"Millbrook School","Wake",35.856111,-78.574167,32.6666666666667,33
+8-02-20,2,8,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,25,24.5
+8-02-20,2,8,"West Johnston Co.","Johnston",35.59095,-78.4622,28,30.5
+8-03-20,3,8,"Bryson City","Swain",35.434767,-83.442133,10,28
+8-03-20,3,8,"Castle Hayne","New Hanover",34.364167,-77.838611,0,20
+8-03-20,3,8,"Clemmons Middle","Forsyth",36.026,-80.342,32,35
+8-03-20,3,8,"Durham Armory","Durham",36.0329550008979,-78.904037,20.6666666666667,27
+8-03-20,3,8,"Frying Pan Mountain","Haywood",35.379167,-82.7925,2,40.5
+8-03-20,3,8,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,25.6666666666667,34
+8-03-20,3,8,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,23.3333333333333,33.5
+8-03-20,3,8,"Leggett","Edgecombe",35.988278,-77.5843,17,23.5
+8-03-20,3,8,"Linville Falls","Avery",35.972347,-81.933072,5,24
+8-03-20,3,8,"Mendenhall School","Guilford",36.1090060008986,-79.802314,20.5,34
+8-03-20,3,8,"Millbrook School","Wake",35.856111,-78.574167,25,25
+8-03-20,3,8,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,14.3333333333333,25.5
+8-03-20,3,8,"West Johnston Co.","Johnston",35.59095,-78.4622,25,24
+8-04-20,4,8,"Bryson City","Swain",35.434767,-83.442133,15,27.5
+8-04-20,4,8,"Castle Hayne","New Hanover",34.364167,-77.838611,0,19
+8-04-20,4,8,"Clemmons Middle","Forsyth",36.026,-80.342,30.5,33.5
+8-04-20,4,8,"Durham Armory","Durham",36.0329550008979,-78.904037,33.6666666666667,31
+8-04-20,4,8,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,41.5
+8-04-20,4,8,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,34,40.5
+8-04-20,4,8,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,29.5,38.5
+8-04-20,4,8,"Leggett","Edgecombe",35.988278,-77.5843,33,34
+8-04-20,4,8,"Linville Falls","Avery",35.972347,-81.933072,NA,28.5
+8-04-20,4,8,"Mendenhall School","Guilford",36.1090060008986,-79.802314,30,41.5
+8-04-20,4,8,"Millbrook School","Wake",35.856111,-78.574167,35,36.5
+8-04-20,4,8,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,19.5,31.5
+8-04-20,4,8,"West Johnston Co.","Johnston",35.59095,-78.4622,27,29.5
+8-05-20,5,8,"Bryson City","Swain",35.434767,-83.442133,25,30
+8-05-20,5,8,"Castle Hayne","New Hanover",34.364167,-77.838611,0,25.5
+8-05-20,5,8,"Clemmons Middle","Forsyth",36.026,-80.342,36.5,42.5
+8-05-20,5,8,"Durham Armory","Durham",36.0329550008979,-78.904037,33.5,39
+8-05-20,5,8,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,43.5
+8-05-20,5,8,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,31,51.5
+8-05-20,5,8,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,34,48
+8-05-20,5,8,"Leggett","Edgecombe",35.988278,-77.5843,21,28.5
+8-05-20,5,8,"Linville Falls","Avery",35.972347,-81.933072,NA,25
+8-05-20,5,8,"Mendenhall School","Guilford",36.1090060008986,-79.802314,32,48
+8-05-20,5,8,"Millbrook School","Wake",35.856111,-78.574167,33,36.5
+8-05-20,5,8,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,22.5,30
+8-05-20,5,8,"West Johnston Co.","Johnston",35.59095,-78.4622,31,32.5
+8-06-20,6,8,"Bryson City","Swain",35.434767,-83.442133,32.5,29.5
+8-06-20,6,8,"Castle Hayne","New Hanover",34.364167,-77.838611,20,37.5
+8-06-20,6,8,"Clemmons Middle","Forsyth",36.026,-80.342,44.5,42.5
+8-06-20,6,8,"Durham Armory","Durham",36.0329550008979,-78.904037,36,43
+8-06-20,6,8,"Frying Pan Mountain","Haywood",35.379167,-82.7925,20,38
+8-06-20,6,8,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,32,52.5
+8-06-20,6,8,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,37.25,46
+8-06-20,6,8,"Leggett","Edgecombe",35.988278,-77.5843,34.5,33.5
+8-06-20,6,8,"Linville Falls","Avery",35.972347,-81.933072,21,31.5
+8-06-20,6,8,"Mendenhall School","Guilford",36.1090060008986,-79.802314,40,49
+8-06-20,6,8,"Millbrook School","Wake",35.856111,-78.574167,41.4,47.5
+8-06-20,6,8,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,31.6666666666667,38
+8-06-20,6,8,"West Johnston Co.","Johnston",35.59095,-78.4622,45.5,42
+8-07-20,7,8,"Bryson City","Swain",35.434767,-83.442133,35,34
+8-07-20,7,8,"Castle Hayne","New Hanover",34.364167,-77.838611,18.5,35
+8-07-20,7,8,"Clemmons Middle","Forsyth",36.026,-80.342,39,41.5
+8-07-20,7,8,"Durham Armory","Durham",36.0329550008979,-78.904037,40.3333333333333,42
+8-07-20,7,8,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,38
+8-07-20,7,8,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,36,55
+8-07-20,7,8,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,36.3333333333333,40.5
+8-07-20,7,8,"Leggett","Edgecombe",35.988278,-77.5843,44.5,42
+8-07-20,7,8,"Linville Falls","Avery",35.972347,-81.933072,NA,34
+8-07-20,7,8,"Mendenhall School","Guilford",36.1090060008986,-79.802314,33.5,47
+8-07-20,7,8,"Millbrook School","Wake",35.856111,-78.574167,46.2,43.5
+8-07-20,7,8,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,45,41.5
+8-07-20,7,8,"West Johnston Co.","Johnston",35.59095,-78.4622,45,40.5
+8-08-20,8,8,"Bryson City","Swain",35.434767,-83.442133,33,31
+8-08-20,8,8,"Castle Hayne","New Hanover",34.364167,-77.838611,27,41.5
+8-08-20,8,8,"Clemmons Middle","Forsyth",36.026,-80.342,31.5,39
+8-08-20,8,8,"Durham Armory","Durham",36.0329550008979,-78.904037,27,44
+8-08-20,8,8,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,45
+8-08-20,8,8,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,32.5,42.5
+8-08-20,8,8,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,27,39
+8-08-20,8,8,"Leggett","Edgecombe",35.988278,-77.5843,34,44
+8-08-20,8,8,"Linville Falls","Avery",35.972347,-81.933072,NA,32.5
+8-08-20,8,8,"Mendenhall School","Guilford",36.1090060008986,-79.802314,24,44
+8-08-20,8,8,"Millbrook School","Wake",35.856111,-78.574167,30.75,46
+8-08-20,8,8,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,43,45.5
+8-08-20,8,8,"West Johnston Co.","Johnston",35.59095,-78.4622,31,42.5
+8-09-20,9,8,"Bryson City","Swain",35.434767,-83.442133,29.5,35.5
+8-09-20,9,8,"Castle Hayne","New Hanover",34.364167,-77.838611,35,43
+8-09-20,9,8,"Clemmons Middle","Forsyth",36.026,-80.342,41,43.5
+8-09-20,9,8,"Durham Armory","Durham",36.0329550008979,-78.904037,36,50
+8-09-20,9,8,"Frying Pan Mountain","Haywood",35.379167,-82.7925,18,44.5
+8-09-20,9,8,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,31,78
+8-09-20,9,8,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,34.3333333333333,43
+8-09-20,9,8,"Leggett","Edgecombe",35.988278,-77.5843,36.5,43
+8-09-20,9,8,"Linville Falls","Avery",35.972347,-81.933072,21,39
+8-09-20,9,8,"Mendenhall School","Guilford",36.1090060008986,-79.802314,35.5,46
+8-09-20,9,8,"Millbrook School","Wake",35.856111,-78.574167,43,57.5
+8-09-20,9,8,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,29.5,57
+8-09-20,9,8,"West Johnston Co.","Johnston",35.59095,-78.4622,43,51.5
+8-10-20,10,8,"Bryson City","Swain",35.434767,-83.442133,30,30
+8-10-20,10,8,"Castle Hayne","New Hanover",34.364167,-77.838611,42,46
+8-10-20,10,8,"Clemmons Middle","Forsyth",36.026,-80.342,48,53
+8-10-20,10,8,"Durham Armory","Durham",36.0329550008979,-78.904037,44.3333333333333,47
+8-10-20,10,8,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,39
+8-10-20,10,8,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,46,49
+8-10-20,10,8,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,44.6666666666667,56
+8-10-20,10,8,"Leggett","Edgecombe",35.988278,-77.5843,43.5,43
+8-10-20,10,8,"Linville Falls","Avery",35.972347,-81.933072,NA,32.5
+8-10-20,10,8,"Mendenhall School","Guilford",36.1090060008986,-79.802314,38,48
+8-10-20,10,8,"Millbrook School","Wake",35.856111,-78.574167,53,59
+8-10-20,10,8,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,52,46.5
+8-10-20,10,8,"West Johnston Co.","Johnston",35.59095,-78.4622,52,48.5
+8-11-20,11,8,"Bryson City","Swain",35.434767,-83.442133,24,32
+8-11-20,11,8,"Castle Hayne","New Hanover",34.364167,-77.838611,22,39
+8-11-20,11,8,"Clemmons Middle","Forsyth",36.026,-80.342,38.5,41.5
+8-11-20,11,8,"Durham Armory","Durham",36.0329550008979,-78.904037,42,42
+8-11-20,11,8,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,35.5
+8-11-20,11,8,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,36,43
+8-11-20,11,8,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,34.5,43
+8-11-20,11,8,"Leggett","Edgecombe",35.988278,-77.5843,35,41.5
+8-11-20,11,8,"Linville Falls","Avery",35.972347,-81.933072,NA,30
+8-11-20,11,8,"Mendenhall School","Guilford",36.1090060008986,-79.802314,35,43
+8-11-20,11,8,"Millbrook School","Wake",35.856111,-78.574167,47.25,44.5
+8-11-20,11,8,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,46,41.5
+8-11-20,11,8,"West Johnston Co.","Johnston",35.59095,-78.4622,45.5,40.5
+8-12-20,12,8,"Bryson City","Swain",35.434767,-83.442133,41,36
+8-12-20,12,8,"Castle Hayne","New Hanover",34.364167,-77.838611,17.5,37.5
+8-12-20,12,8,"Clemmons Middle","Forsyth",36.026,-80.342,47.5,38.5
+8-12-20,12,8,"Durham Armory","Durham",36.0329550008979,-78.904037,36,53
+8-12-20,12,8,"Frying Pan Mountain","Haywood",35.379167,-82.7925,35,41
+8-12-20,12,8,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,35,45.5
+8-12-20,12,8,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,35.5,43
+8-12-20,12,8,"Leggett","Edgecombe",35.988278,-77.5843,32,38.5
+8-12-20,12,8,"Linville Falls","Avery",35.972347,-81.933072,35,34
+8-12-20,12,8,"Mendenhall School","Guilford",36.1090060008986,-79.802314,33,43.5
+8-12-20,12,8,"Millbrook School","Wake",35.856111,-78.574167,38.6,44.5
+8-12-20,12,8,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,31,41.5
+8-12-20,12,8,"West Johnston Co.","Johnston",35.59095,-78.4622,36.5,38.5
+9-01-20,1,9,"Bryson City","Swain",35.434767,-83.442133,29,33.5
+9-01-20,1,9,"Castle Hayne","New Hanover",34.364167,-77.838611,4,25
+9-01-20,1,9,"Clemmons Middle","Forsyth",36.026,-80.342,34.5,41.5
+9-01-20,1,9,"Durham Armory","Durham",36.0329550008979,-78.904037,36.5,36.5
+9-01-20,1,9,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,39.5
+9-01-20,1,9,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,34.5,39
+9-01-20,1,9,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,30.5,42
+9-01-20,1,9,"Leggett","Edgecombe",35.988278,-77.5843,28,34
+9-01-20,1,9,"Linville Falls","Avery",35.972347,-81.933072,NA,37
+9-01-20,1,9,"Mendenhall School","Guilford",36.1090060008986,-79.802314,27,39.5
+9-01-20,1,9,"Millbrook School","Wake",35.856111,-78.574167,33.5,36.5
+9-01-20,1,9,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,27,33.5
+9-01-20,1,9,"West Johnston Co.","Johnston",35.59095,-78.4622,31,33
+9-02-20,2,9,"Bryson City","Swain",35.434767,-83.442133,28,29
+9-02-20,2,9,"Castle Hayne","New Hanover",34.364167,-77.838611,1,20
+9-02-20,2,9,"Clemmons Middle","Forsyth",36.026,-80.342,32.5,35
+9-02-20,2,9,"Durham Armory","Durham",36.0329550008979,-78.904037,25.3333333333333,28
+9-02-20,2,9,"Frying Pan Mountain","Haywood",35.379167,-82.7925,15,37.5
+9-02-20,2,9,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,27.3333333333333,31.5
+9-02-20,2,9,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,28,38
+9-02-20,2,9,"Leggett","Edgecombe",35.988278,-77.5843,23.5,26.5
+9-02-20,2,9,"Linville Falls","Avery",35.972347,-81.933072,24,28
+9-02-20,2,9,"Mendenhall School","Guilford",36.1090060008986,-79.802314,25,34
+9-02-20,2,9,"Millbrook School","Wake",35.856111,-78.574167,30.4,27.5
+9-02-20,2,9,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,22.6666666666667,26
+9-02-20,2,9,"West Johnston Co.","Johnston",35.59095,-78.4622,24.5,26
+9-03-20,3,9,"Bryson City","Swain",35.434767,-83.442133,18,29
+9-03-20,3,9,"Castle Hayne","New Hanover",34.364167,-77.838611,0,22
+9-03-20,3,9,"Clemmons Middle","Forsyth",36.026,-80.342,40,45
+9-03-20,3,9,"Durham Armory","Durham",36.0329550008979,-78.904037,28.3333333333333,35
+9-03-20,3,9,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,38
+9-03-20,3,9,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,33.6666666666667,39
+9-03-20,3,9,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,36,48
+9-03-20,3,9,"Leggett","Edgecombe",35.988278,-77.5843,23,28.5
+9-03-20,3,9,"Linville Falls","Avery",35.972347,-81.933072,NA,30.5
+9-03-20,3,9,"Mendenhall School","Guilford",36.1090060008986,-79.802314,29,39
+9-03-20,3,9,"Millbrook School","Wake",35.856111,-78.574167,34.4,34.5
+9-03-20,3,9,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,25,27
+9-03-20,3,9,"West Johnston Co.","Johnston",35.59095,-78.4622,29,30
+9-04-20,4,9,"Bryson City","Swain",35.434767,-83.442133,32.5,29.5
+9-04-20,4,9,"Castle Hayne","New Hanover",34.364167,-77.838611,0,30
+9-04-20,4,9,"Clemmons Middle","Forsyth",36.026,-80.342,42.5,44.5
+9-04-20,4,9,"Durham Armory","Durham",36.0329550008979,-78.904037,38,33.5
+9-04-20,4,9,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,38
+9-04-20,4,9,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,34.5,35.5
+9-04-20,4,9,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,38,61.5
+9-04-20,4,9,"Leggett","Edgecombe",35.988278,-77.5843,34,31
+9-04-20,4,9,"Linville Falls","Avery",35.972347,-81.933072,NA,33
+9-04-20,4,9,"Mendenhall School","Guilford",36.1090060008986,-79.802314,32,42
+9-04-20,4,9,"Millbrook School","Wake",35.856111,-78.574167,37.5,27.5
+9-04-20,4,9,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,30,32
+9-04-20,4,9,"West Johnston Co.","Johnston",35.59095,-78.4622,37,31
+9-05-20,5,9,"Bryson City","Swain",35.434767,-83.442133,38,33
+9-05-20,5,9,"Castle Hayne","New Hanover",34.364167,-77.838611,4,29
+9-05-20,5,9,"Clemmons Middle","Forsyth",36.026,-80.342,41,38.5
+9-05-20,5,9,"Durham Armory","Durham",36.0329550008979,-78.904037,37.5,37
+9-05-20,5,9,"Frying Pan Mountain","Haywood",35.379167,-82.7925,20,42.5
+9-05-20,5,9,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,36.3333333333333,33.5
+9-05-20,5,9,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,39.75,39
+9-05-20,5,9,"Leggett","Edgecombe",35.988278,-77.5843,27,30
+9-05-20,5,9,"Linville Falls","Avery",35.972347,-81.933072,29,35
+9-05-20,5,9,"Mendenhall School","Guilford",36.1090060008986,-79.802314,29,38
+9-05-20,5,9,"Millbrook School","Wake",35.856111,-78.574167,38.3333333333333,33
+9-05-20,5,9,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,25,31
+9-05-20,5,9,"West Johnston Co.","Johnston",35.59095,-78.4622,33,33
+9-06-20,6,9,"Bryson City","Swain",35.434767,-83.442133,34.5,31.5
+9-06-20,6,9,"Castle Hayne","New Hanover",34.364167,-77.838611,0,29
+9-06-20,6,9,"Clemmons Middle","Forsyth",36.026,-80.342,36.3333333333333,40
+9-06-20,6,9,"Durham Armory","Durham",36.0329550008979,-78.904037,35,42
+9-06-20,6,9,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,45.5
+9-06-20,6,9,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,33.6666666666667,47.5
+9-06-20,6,9,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,33.5,43
+9-06-20,6,9,"Leggett","Edgecombe",35.988278,-77.5843,24,33
+9-06-20,6,9,"Linville Falls","Avery",35.972347,-81.933072,NA,37
+9-06-20,6,9,"Mendenhall School","Guilford",36.1090060008986,-79.802314,32.5,45.5
+9-06-20,6,9,"Millbrook School","Wake",35.856111,-78.574167,34.5,42
+9-06-20,6,9,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,27,34
+9-06-20,6,9,"West Johnston Co.","Johnston",35.59095,-78.4622,31,40
+9-07-20,7,9,"Bryson City","Swain",35.434767,-83.442133,33.5,36.5
+9-07-20,7,9,"Castle Hayne","New Hanover",34.364167,-77.838611,8,28
+9-07-20,7,9,"Clemmons Middle","Forsyth",36.026,-80.342,41.5,47.5
+9-07-20,7,9,"Durham Armory","Durham",36.0329550008979,-78.904037,34.5,45
+9-07-20,7,9,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,45.5
+9-07-20,7,9,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,41,66.5
+9-07-20,7,9,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,37.5,49.5
+9-07-20,7,9,"Leggett","Edgecombe",35.988278,-77.5843,32,39.5
+9-07-20,7,9,"Linville Falls","Avery",35.972347,-81.933072,NA,36
+9-07-20,7,9,"Mendenhall School","Guilford",36.1090060008986,-79.802314,32.5,43.5
+9-07-20,7,9,"Millbrook School","Wake",35.856111,-78.574167,40,47
+9-07-20,7,9,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,38,39
+9-07-20,7,9,"West Johnston Co.","Johnston",35.59095,-78.4622,44,43.5
+9-08-20,8,9,"Bryson City","Swain",35.434767,-83.442133,33,32
+9-08-20,8,9,"Castle Hayne","New Hanover",34.364167,-77.838611,1,25
+9-08-20,8,9,"Clemmons Middle","Forsyth",36.026,-80.342,47,47.5
+9-08-20,8,9,"Durham Armory","Durham",36.0329550008979,-78.904037,46,41
+9-08-20,8,9,"Frying Pan Mountain","Haywood",35.379167,-82.7925,27,38
+9-08-20,8,9,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,39.3333333333333,58
+9-08-20,8,9,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,41,45.5
+9-08-20,8,9,"Leggett","Edgecombe",35.988278,-77.5843,45,34.5
+9-08-20,8,9,"Linville Falls","Avery",35.972347,-81.933072,32,39.5
+9-08-20,8,9,"Mendenhall School","Guilford",36.1090060008986,-79.802314,40,45
+9-08-20,8,9,"Millbrook School","Wake",35.856111,-78.574167,48.2,42.5
+9-08-20,8,9,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,29.5,34
+9-08-20,8,9,"West Johnston Co.","Johnston",35.59095,-78.4622,51.5,32.5
+9-09-20,9,9,"Bryson City","Swain",35.434767,-83.442133,26.5,27.5
+9-09-20,9,9,"Castle Hayne","New Hanover",34.364167,-77.838611,0,20
+9-09-20,9,9,"Clemmons Middle","Forsyth",36.026,-80.342,39.5,47
+9-09-20,9,9,"Durham Armory","Durham",36.0329550008979,-78.904037,45.3333333333333,20.5
+9-09-20,9,9,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,48
+9-09-20,9,9,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,46.3333333333333,79
+9-09-20,9,9,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,33.5,45
+9-09-20,9,9,"Leggett","Edgecombe",35.988278,-77.5843,34.5,26.5
+9-09-20,9,9,"Linville Falls","Avery",35.972347,-81.933072,NA,35
+9-09-20,9,9,"Mendenhall School","Guilford",36.1090060008986,-79.802314,33,30
+9-09-20,9,9,"Millbrook School","Wake",35.856111,-78.574167,47.6,25.5
+9-09-20,9,9,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,25,24
+9-09-20,9,9,"West Johnston Co.","Johnston",35.59095,-78.4622,45,28
+9-10-20,10,9,"Bryson City","Swain",35.434767,-83.442133,30.5,31.5
+9-10-20,10,9,"Castle Hayne","New Hanover",34.364167,-77.838611,NA,27.5
+9-10-20,10,9,"Clemmons Middle","Forsyth",36.026,-80.342,43.5,33.5
+9-10-20,10,9,"Durham Armory","Durham",36.0329550008979,-78.904037,32,36.5
+9-10-20,10,9,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,37
+9-10-20,10,9,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,47.5,36.5
+9-10-20,10,9,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,39,44
+9-10-20,10,9,"Leggett","Edgecombe",35.988278,-77.5843,22.5,26.5
+9-10-20,10,9,"Linville Falls","Avery",35.972347,-81.933072,NA,35
+9-10-20,10,9,"Mendenhall School","Guilford",36.1090060008986,-79.802314,33.5,35
+9-10-20,10,9,"Millbrook School","Wake",35.856111,-78.574167,32,32.5
+9-10-20,10,9,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,NA,27
+9-10-20,10,9,"West Johnston Co.","Johnston",35.59095,-78.4622,40,36
+9-11-20,11,9,"Bryson City","Swain",35.434767,-83.442133,31,31
+9-11-20,11,9,"Castle Hayne","New Hanover",34.364167,-77.838611,2,37
+9-11-20,11,9,"Clemmons Middle","Forsyth",36.026,-80.342,47.5,53
+9-11-20,11,9,"Durham Armory","Durham",36.0329550008979,-78.904037,42,46
+9-11-20,11,9,"Frying Pan Mountain","Haywood",35.379167,-82.7925,8,49.5
+9-11-20,11,9,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,36.6666666666667,82
+9-11-20,11,9,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,32.75,67.5
+9-11-20,11,9,"Leggett","Edgecombe",35.988278,-77.5843,34,35
+9-11-20,11,9,"Linville Falls","Avery",35.972347,-81.933072,22,30.5
+9-11-20,11,9,"Mendenhall School","Guilford",36.1090060008986,-79.802314,32,58.5
+9-11-20,11,9,"Millbrook School","Wake",35.856111,-78.574167,32.6,42
+9-11-20,11,9,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,NA,45
+9-11-20,11,9,"West Johnston Co.","Johnston",35.59095,-78.4622,42,41
+9-12-20,12,9,"Bryson City","Swain",35.434767,-83.442133,35.5,28
+9-12-20,12,9,"Castle Hayne","New Hanover",34.364167,-77.838611,11,42
+9-12-20,12,9,"Clemmons Middle","Forsyth",36.026,-80.342,45.6666666666667,45.5
+9-12-20,12,9,"Durham Armory","Durham",36.0329550008979,-78.904037,56.5,58
+9-12-20,12,9,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,44
+9-12-20,12,9,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,56,67
+9-12-20,12,9,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,43.6666666666667,38.5
+9-12-20,12,9,"Leggett","Edgecombe",35.988278,-77.5843,56,47
+9-12-20,12,9,"Linville Falls","Avery",35.972347,-81.933072,NA,32.5
+9-12-20,12,9,"Mendenhall School","Guilford",36.1090060008986,-79.802314,31,34.5
+9-12-20,12,9,"Millbrook School","Wake",35.856111,-78.574167,63,74
+9-12-20,12,9,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,51,46
+9-12-20,12,9,"West Johnston Co.","Johnston",35.59095,-78.4622,58,64
+10-01-20,1,10,"Bryson City","Swain",35.434767,-83.442133,38,29
+10-01-20,1,10,"Castle Hayne","New Hanover",34.364167,-77.838611,18,34
+10-01-20,1,10,"Clemmons Middle","Forsyth",36.026,-80.342,50.5,44.5
+10-01-20,1,10,"Durham Armory","Durham",36.0329550008979,-78.904037,27.5,48.5
+10-01-20,1,10,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,45.5
+10-01-20,1,10,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,50,70.5
+10-01-20,1,10,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,44.5,55.5
+10-01-20,1,10,"Leggett","Edgecombe",35.988278,-77.5843,31.5,37.5
+10-01-20,1,10,"Linville Falls","Avery",35.972347,-81.933072,NA,32
+10-01-20,1,10,"Mendenhall School","Guilford",36.1090060008986,-79.802314,42,51.5
+10-01-20,1,10,"Millbrook School","Wake",35.856111,-78.574167,38.5,46
+10-01-20,1,10,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,36.5,39.5
+10-01-20,1,10,"West Johnston Co.","Johnston",35.59095,-78.4622,32,44.5
+10-02-20,2,10,"Bryson City","Swain",35.434767,-83.442133,39,36.5
+10-02-20,2,10,"Castle Hayne","New Hanover",34.364167,-77.838611,20,43
+10-02-20,2,10,"Clemmons Middle","Forsyth",36.026,-80.342,52,44
+10-02-20,2,10,"Durham Armory","Durham",36.0329550008979,-78.904037,34.3333333333333,44.5
+10-02-20,2,10,"Frying Pan Mountain","Haywood",35.379167,-82.7925,23,53
+10-02-20,2,10,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,46.6666666666667,60.5
+10-02-20,2,10,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,44.3333333333333,47
+10-02-20,2,10,"Leggett","Edgecombe",35.988278,-77.5843,65,45
+10-02-20,2,10,"Linville Falls","Avery",35.972347,-81.933072,25,34.5
+10-02-20,2,10,"Mendenhall School","Guilford",36.1090060008986,-79.802314,47,48.5
+10-02-20,2,10,"Millbrook School","Wake",35.856111,-78.574167,52.4,64
+10-02-20,2,10,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,38,46.5
+10-02-20,2,10,"West Johnston Co.","Johnston",35.59095,-78.4622,51,42.5
+10-03-20,3,10,"Bryson City","Swain",35.434767,-83.442133,36,33.5
+10-03-20,3,10,"Castle Hayne","New Hanover",34.364167,-77.838611,49,51
+10-03-20,3,10,"Clemmons Middle","Forsyth",36.026,-80.342,45.5,40.5
+10-03-20,3,10,"Durham Armory","Durham",36.0329550008979,-78.904037,31,41
+10-03-20,3,10,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,49.5
+10-03-20,3,10,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,47.5,65
+10-03-20,3,10,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,41,43
+10-03-20,3,10,"Leggett","Edgecombe",35.988278,-77.5843,44.5,44
+10-03-20,3,10,"Linville Falls","Avery",35.972347,-81.933072,NA,31
+10-03-20,3,10,"Mendenhall School","Guilford",36.1090060008986,-79.802314,38,55
+10-03-20,3,10,"Millbrook School","Wake",35.856111,-78.574167,55.25,65
+10-03-20,3,10,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,48,46.5
+10-03-20,3,10,"West Johnston Co.","Johnston",35.59095,-78.4622,50,43.5
+10-04-20,4,10,"Bryson City","Swain",35.434767,-83.442133,30.5,36
+10-04-20,4,10,"Castle Hayne","New Hanover",34.364167,-77.838611,46,48
+10-04-20,4,10,"Clemmons Middle","Forsyth",36.026,-80.342,40,42
+10-04-20,4,10,"Durham Armory","Durham",36.0329550008979,-78.904037,33,43.5
+10-04-20,4,10,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,48.5
+10-04-20,4,10,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,45.5,57
+10-04-20,4,10,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,36,43.5
+10-04-20,4,10,"Leggett","Edgecombe",35.988278,-77.5843,47.5,40.5
+10-04-20,4,10,"Linville Falls","Avery",35.972347,-81.933072,NA,38
+10-04-20,4,10,"Mendenhall School","Guilford",36.1090060008986,-79.802314,32,46.5
+10-04-20,4,10,"Millbrook School","Wake",35.856111,-78.574167,54,47
+10-04-20,4,10,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,52,48.5
+10-04-20,4,10,"West Johnston Co.","Johnston",35.59095,-78.4622,50.5,45.5
+10-05-20,5,10,"Bryson City","Swain",35.434767,-83.442133,26.5,28.5
+10-05-20,5,10,"Castle Hayne","New Hanover",34.364167,-77.838611,3,34
+10-05-20,5,10,"Clemmons Middle","Forsyth",36.026,-80.342,32,32
+10-05-20,5,10,"Durham Armory","Durham",36.0329550008979,-78.904037,22.6666666666667,32.5
+10-05-20,5,10,"Frying Pan Mountain","Haywood",35.379167,-82.7925,23,40
+10-05-20,5,10,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,40,38.5
+10-05-20,5,10,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,27.6666666666667,32
+10-05-20,5,10,"Leggett","Edgecombe",35.988278,-77.5843,28,34
+10-05-20,5,10,"Linville Falls","Avery",35.972347,-81.933072,26,33.5
+10-05-20,5,10,"Mendenhall School","Guilford",36.1090060008986,-79.802314,21.5,35
+10-05-20,5,10,"Millbrook School","Wake",35.856111,-78.574167,37.4,36
+10-05-20,5,10,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,50.5,36.5
+10-05-20,5,10,"West Johnston Co.","Johnston",35.59095,-78.4622,33,35.5
+10-06-20,6,10,"Bryson City","Swain",35.434767,-83.442133,25,27.5
+10-06-20,6,10,"Castle Hayne","New Hanover",34.364167,-77.838611,25.5,38
+10-06-20,6,10,"Clemmons Middle","Forsyth",36.026,-80.342,37.5,33.5
+10-06-20,6,10,"Durham Armory","Durham",36.0329550008979,-78.904037,19,32
+10-06-20,6,10,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,38.5
+10-06-20,6,10,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,40.5,36
+10-06-20,6,10,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,30.5,35
+10-06-20,6,10,"Leggett","Edgecombe",35.988278,-77.5843,26.5,32
+10-06-20,6,10,"Linville Falls","Avery",35.972347,-81.933072,NA,34
+10-06-20,6,10,"Mendenhall School","Guilford",36.1090060008986,-79.802314,26.5,32
+10-06-20,6,10,"Millbrook School","Wake",35.856111,-78.574167,38.5,31.5
+10-06-20,6,10,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,32.5,35.5
+10-06-20,6,10,"West Johnston Co.","Johnston",35.59095,-78.4622,35.5,32
+10-07-20,7,10,"Bryson City","Swain",35.434767,-83.442133,30,29.5
+10-07-20,7,10,"Castle Hayne","New Hanover",34.364167,-77.838611,14.5,33
+10-07-20,7,10,"Clemmons Middle","Forsyth",36.026,-80.342,37.5,38
+10-07-20,7,10,"Durham Armory","Durham",36.0329550008979,-78.904037,14.5,35.5
+10-07-20,7,10,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,38.5
+10-07-20,7,10,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,37,39
+10-07-20,7,10,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,31.5,40
+10-07-20,7,10,"Leggett","Edgecombe",35.988278,-77.5843,16.5,31
+10-07-20,7,10,"Linville Falls","Avery",35.972347,-81.933072,NA,32.5
+10-07-20,7,10,"Mendenhall School","Guilford",36.1090060008986,-79.802314,25.5,37.5
+10-07-20,7,10,"Millbrook School","Wake",35.856111,-78.574167,35.5,34.5
+10-07-20,7,10,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,17.5,32.5
+10-07-20,7,10,"West Johnston Co.","Johnston",35.59095,-78.4622,31.5,34
+10-08-20,8,10,"Bryson City","Swain",35.434767,-83.442133,22,27
+10-08-20,8,10,"Castle Hayne","New Hanover",34.364167,-77.838611,7,31
+10-08-20,8,10,"Clemmons Middle","Forsyth",36.026,-80.342,28.5,32
+10-08-20,8,10,"Durham Armory","Durham",36.0329550008979,-78.904037,13.6666666666667,29
+10-08-20,8,10,"Frying Pan Mountain","Haywood",35.379167,-82.7925,10,34
+10-08-20,8,10,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,22,29.5
+10-08-20,8,10,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,26.6666666666667,32.5
+10-08-20,8,10,"Leggett","Edgecombe",35.988278,-77.5843,14.5,28
+10-08-20,8,10,"Linville Falls","Avery",35.972347,-81.933072,23,30
+10-08-20,8,10,"Mendenhall School","Guilford",36.1090060008986,-79.802314,19,31.5
+10-08-20,8,10,"Millbrook School","Wake",35.856111,-78.574167,21.6,29
+10-08-20,8,10,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,16,28.5
+10-08-20,8,10,"West Johnston Co.","Johnston",35.59095,-78.4622,19.5,29
+10-09-20,9,10,"Bryson City","Swain",35.434767,-83.442133,16,34
+10-09-20,9,10,"Castle Hayne","New Hanover",34.364167,-77.838611,8,33
+10-09-20,9,10,"Clemmons Middle","Forsyth",36.026,-80.342,24.5,37
+10-09-20,9,10,"Durham Armory","Durham",36.0329550008979,-78.904037,10,28
+10-09-20,9,10,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,31.5
+10-09-20,9,10,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,15.5,33
+10-09-20,9,10,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,20,36
+10-09-20,9,10,"Leggett","Edgecombe",35.988278,-77.5843,14,28
+10-09-20,9,10,"Linville Falls","Avery",35.972347,-81.933072,NA,31
+10-09-20,9,10,"Mendenhall School","Guilford",36.1090060008986,-79.802314,11,34
+10-09-20,9,10,"Millbrook School","Wake",35.856111,-78.574167,20.25,28
+10-09-20,9,10,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,20,32
+10-09-20,9,10,"West Johnston Co.","Johnston",35.59095,-78.4622,18,28.5
+10-10-20,10,10,"Bryson City","Swain",35.434767,-83.442133,18.5,26.5
+10-10-20,10,10,"Castle Hayne","New Hanover",34.364167,-77.838611,2,25
+10-10-20,10,10,"Clemmons Middle","Forsyth",36.026,-80.342,29,28
+10-10-20,10,10,"Durham Armory","Durham",36.0329550008979,-78.904037,13,28
+10-10-20,10,10,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,30.5
+10-10-20,10,10,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,15,29.5
+10-10-20,10,10,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,24,28.5
+10-10-20,10,10,"Leggett","Edgecombe",35.988278,-77.5843,15.5,28.5
+10-10-20,10,10,"Linville Falls","Avery",35.972347,-81.933072,NA,25.5
+10-10-20,10,10,"Mendenhall School","Guilford",36.1090060008986,-79.802314,14.5,28
+10-10-20,10,10,"Millbrook School","Wake",35.856111,-78.574167,22,36
+10-10-20,10,10,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,12,29
+10-10-20,10,10,"West Johnston Co.","Johnston",35.59095,-78.4622,19,32
+10-11-20,11,10,"Bryson City","Swain",35.434767,-83.442133,24,35.5
+10-11-20,11,10,"Castle Hayne","New Hanover",34.364167,-77.838611,8,43
+10-11-20,11,10,"Clemmons Middle","Forsyth",36.026,-80.342,23,33
+10-11-20,11,10,"Durham Armory","Durham",36.0329550008979,-78.904037,11.5,34.5
+10-11-20,11,10,"Frying Pan Mountain","Haywood",35.379167,-82.7925,2,39
+10-11-20,11,10,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,16.6666666666667,36
+10-11-20,11,10,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,16.3333333333333,32.5
+10-11-20,11,10,"Leggett","Edgecombe",35.988278,-77.5843,18,40
+10-11-20,11,10,"Linville Falls","Avery",35.972347,-81.933072,6,34.5
+10-11-20,11,10,"Mendenhall School","Guilford",36.1090060008986,-79.802314,15,44
+10-11-20,11,10,"Millbrook School","Wake",35.856111,-78.574167,18.4,42
+10-11-20,11,10,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,21,42
+10-11-20,11,10,"West Johnston Co.","Johnston",35.59095,-78.4622,26,42
+10-12-20,12,10,"Bryson City","Swain",35.434767,-83.442133,24.5,32
+10-12-20,12,10,"Castle Hayne","New Hanover",34.364167,-77.838611,20,44
+10-12-20,12,10,"Clemmons Middle","Forsyth",36.026,-80.342,26.3333333333333,40
+10-12-20,12,10,"Durham Armory","Durham",36.0329550008979,-78.904037,27.5,38
+10-12-20,12,10,"Frying Pan Mountain","Haywood",35.379167,-82.7925,NA,43.5
+10-12-20,12,10,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,29,39.5
+10-12-20,12,10,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,26,40
+10-12-20,12,10,"Leggett","Edgecombe",35.988278,-77.5843,25.5,40.5
+10-12-20,12,10,"Linville Falls","Avery",35.972347,-81.933072,NA,36.5
+10-12-20,12,10,"Mendenhall School","Guilford",36.1090060008986,-79.802314,31,46
+10-12-20,12,10,"Millbrook School","Wake",35.856111,-78.574167,32.5,38
+10-12-20,12,10,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,26,49
+10-12-20,12,10,"West Johnston Co.","Johnston",35.59095,-78.4622,38,41
+11-01-20,1,11,"Bryson City","Swain",35.434767,-83.442133,29,NA
+11-01-20,1,11,"Castle Hayne","New Hanover",34.364167,-77.838611,5,NA
+11-01-20,1,11,"Clemmons Middle","Forsyth",36.026,-80.342,28,26
+11-01-20,1,11,"Durham Armory","Durham",36.0329550008979,-78.904037,24,NA
+11-01-20,1,11,"Frying Pan Mountain","Haywood",35.379167,-82.7925,6,NA
+11-01-20,1,11,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,20.6666666666667,30.5
+11-01-20,1,11,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,27,NA
+11-01-20,1,11,"Leggett","Edgecombe",35.988278,-77.5843,14,NA
+11-01-20,1,11,"Linville Falls","Avery",35.972347,-81.933072,22,NA
+11-01-20,1,11,"Mendenhall School","Guilford",36.1090060008986,-79.802314,21.5,NA
+11-01-20,1,11,"Millbrook School","Wake",35.856111,-78.574167,25.25,29.5
+11-01-20,1,11,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,16,NA
+11-01-20,1,11,"West Johnston Co.","Johnston",35.59095,-78.4622,17,NA
+11-02-20,2,11,"Bryson City","Swain",35.434767,-83.442133,18,NA
+11-02-20,2,11,"Castle Hayne","New Hanover",34.364167,-77.838611,12.5,NA
+11-02-20,2,11,"Clemmons Middle","Forsyth",36.026,-80.342,29.5,31
+11-02-20,2,11,"Durham Armory","Durham",36.0329550008979,-78.904037,27,NA
+11-02-20,2,11,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,26,25.5
+11-02-20,2,11,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,23,NA
+11-02-20,2,11,"Leggett","Edgecombe",35.988278,-77.5843,18.5,NA
+11-02-20,2,11,"Mendenhall School","Guilford",36.1090060008986,-79.802314,25.5,NA
+11-02-20,2,11,"Millbrook School","Wake",35.856111,-78.574167,33,28.5
+11-02-20,2,11,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,19.5,NA
+11-02-20,2,11,"West Johnston Co.","Johnston",35.59095,-78.4622,28,NA
+11-03-20,3,11,"Bryson City","Swain",35.434767,-83.442133,27.5,NA
+11-03-20,3,11,"Castle Hayne","New Hanover",34.364167,-77.838611,14.5,NA
+11-03-20,3,11,"Clemmons Middle","Forsyth",36.026,-80.342,26,31
+11-03-20,3,11,"Durham Armory","Durham",36.0329550008979,-78.904037,27,NA
+11-03-20,3,11,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,32.5,32.5
+11-03-20,3,11,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,23,NA
+11-03-20,3,11,"Leggett","Edgecombe",35.988278,-77.5843,12,NA
+11-03-20,3,11,"Mendenhall School","Guilford",36.1090060008986,-79.802314,33,NA
+11-03-20,3,11,"Millbrook School","Wake",35.856111,-78.574167,29.3333333333333,32
+11-03-20,3,11,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,14.5,NA
+11-03-20,3,11,"West Johnston Co.","Johnston",35.59095,-78.4622,32,NA
+11-04-20,4,11,"Bryson City","Swain",35.434767,-83.442133,34,NA
+11-04-20,4,11,"Castle Hayne","New Hanover",34.364167,-77.838611,12,NA
+11-04-20,4,11,"Clemmons Middle","Forsyth",36.026,-80.342,41,NA
+11-04-20,4,11,"Durham Armory","Durham",36.0329550008979,-78.904037,32.6666666666667,NA
+11-04-20,4,11,"Frying Pan Mountain","Haywood",35.379167,-82.7925,10,NA
+11-04-20,4,11,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,39,30.5
+11-04-20,4,11,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,29.3333333333333,NA
+11-04-20,4,11,"Leggett","Edgecombe",35.988278,-77.5843,19.5,NA
+11-04-20,4,11,"Linville Falls","Avery",35.972347,-81.933072,15,NA
+11-04-20,4,11,"Mendenhall School","Guilford",36.1090060008986,-79.802314,32,NA
+11-04-20,4,11,"Millbrook School","Wake",35.856111,-78.574167,35,30.5
+11-04-20,4,11,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,21.6666666666667,NA
+11-04-20,4,11,"West Johnston Co.","Johnston",35.59095,-78.4622,31,NA
+11-05-20,5,11,"Bryson City","Swain",35.434767,-83.442133,27.5,NA
+11-05-20,5,11,"Castle Hayne","New Hanover",34.364167,-77.838611,5.5,NA
+11-05-20,5,11,"Clemmons Middle","Forsyth",36.026,-80.342,37,NA
+11-05-20,5,11,"Durham Armory","Durham",36.0329550008979,-78.904037,34,NA
+11-05-20,5,11,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,32.5,16.5
+11-05-20,5,11,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,32.5,NA
+11-05-20,5,11,"Leggett","Edgecombe",35.988278,-77.5843,28.5,NA
+11-05-20,5,11,"Mendenhall School","Guilford",36.1090060008986,-79.802314,36,NA
+11-05-20,5,11,"Millbrook School","Wake",35.856111,-78.574167,36.3333333333333,23
+11-05-20,5,11,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,18,NA
+11-05-20,5,11,"West Johnston Co.","Johnston",35.59095,-78.4622,29.5,NA
+11-06-20,6,11,"Bryson City","Swain",35.434767,-83.442133,21.5,NA
+11-06-20,6,11,"Castle Hayne","New Hanover",34.364167,-77.838611,15,NA
+11-06-20,6,11,"Clemmons Middle","Forsyth",36.026,-80.342,28.5,NA
+11-06-20,6,11,"Durham Armory","Durham",36.0329550008979,-78.904037,40,NA
+11-06-20,6,11,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,27.5,28.5
+11-06-20,6,11,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,26.5,NA
+11-06-20,6,11,"Leggett","Edgecombe",35.988278,-77.5843,25,NA
+11-06-20,6,11,"Mendenhall School","Guilford",36.1090060008986,-79.802314,26,NA
+11-06-20,6,11,"Millbrook School","Wake",35.856111,-78.574167,39,29
+11-06-20,6,11,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,23,NA
+11-06-20,6,11,"West Johnston Co.","Johnston",35.59095,-78.4622,32.5,NA
+11-07-20,7,11,"Bryson City","Swain",35.434767,-83.442133,31,NA
+11-07-20,7,11,"Castle Hayne","New Hanover",34.364167,-77.838611,15.5,NA
+11-07-20,7,11,"Clemmons Middle","Forsyth",36.026,-80.342,46,NA
+11-07-20,7,11,"Durham Armory","Durham",36.0329550008979,-78.904037,34,NA
+11-07-20,7,11,"Frying Pan Mountain","Haywood",35.379167,-82.7925,7,NA
+11-07-20,7,11,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,35.3333333333333,32
+11-07-20,7,11,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,32.3333333333333,NA
+11-07-20,7,11,"Leggett","Edgecombe",35.988278,-77.5843,24,NA
+11-07-20,7,11,"Linville Falls","Avery",35.972347,-81.933072,10,NA
+11-07-20,7,11,"Mendenhall School","Guilford",36.1090060008986,-79.802314,31,NA
+11-07-20,7,11,"Millbrook School","Wake",35.856111,-78.574167,35.3333333333333,33.5
+11-07-20,7,11,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,24.6666666666667,NA
+11-07-20,7,11,"West Johnston Co.","Johnston",35.59095,-78.4622,31,NA
+11-08-20,8,11,"Bryson City","Swain",35.434767,-83.442133,25.5,NA
+11-08-20,8,11,"Castle Hayne","New Hanover",34.364167,-77.838611,7,NA
+11-08-20,8,11,"Clemmons Middle","Forsyth",36.026,-80.342,27,NA
+11-08-20,8,11,"Durham Armory","Durham",36.0329550008979,-78.904037,31.5,NA
+11-08-20,8,11,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,25.5,31.5
+11-08-20,8,11,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,20,NA
+11-08-20,8,11,"Leggett","Edgecombe",35.988278,-77.5843,22.5,NA
+11-08-20,8,11,"Mendenhall School","Guilford",36.1090060008986,-79.802314,15,NA
+11-08-20,8,11,"Millbrook School","Wake",35.856111,-78.574167,38,31.5
+11-08-20,8,11,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,21.5,NA
+11-08-20,8,11,"West Johnston Co.","Johnston",35.59095,-78.4622,28.5,NA
+11-09-20,9,11,"Bryson City","Swain",35.434767,-83.442133,26.5,NA
+11-09-20,9,11,"Castle Hayne","New Hanover",34.364167,-77.838611,18.5,NA
+11-09-20,9,11,"Clemmons Middle","Forsyth",36.026,-80.342,37,NA
+11-09-20,9,11,"Durham Armory","Durham",36.0329550008979,-78.904037,31.5,NA
+11-09-20,9,11,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,34.5,22.5
+11-09-20,9,11,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,32,NA
+11-09-20,9,11,"Leggett","Edgecombe",35.988278,-77.5843,20.5,NA
+11-09-20,9,11,"Mendenhall School","Guilford",36.1090060008986,-79.802314,36,NA
+11-09-20,9,11,"Millbrook School","Wake",35.856111,-78.574167,39.6666666666667,23.5
+11-09-20,9,11,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,23.5,NA
+11-09-20,9,11,"West Johnston Co.","Johnston",35.59095,-78.4622,30,NA
+11-10-20,10,11,"Bryson City","Swain",35.434767,-83.442133,36,NA
+11-10-20,10,11,"Castle Hayne","New Hanover",34.364167,-77.838611,18.5,NA
+11-10-20,10,11,"Clemmons Middle","Forsyth",36.026,-80.342,38.3333333333333,NA
+11-10-20,10,11,"Durham Armory","Durham",36.0329550008979,-78.904037,32.6666666666667,NA
+11-10-20,10,11,"Frying Pan Mountain","Haywood",35.379167,-82.7925,8,NA
+11-10-20,10,11,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,36,32.5
+11-10-20,10,11,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,43.5,NA
+11-10-20,10,11,"Leggett","Edgecombe",35.988278,-77.5843,18,NA
+11-10-20,10,11,"Linville Falls","Avery",35.972347,-81.933072,12,NA
+11-10-20,10,11,"Mendenhall School","Guilford",36.1090060008986,-79.802314,35,NA
+11-10-20,10,11,"Millbrook School","Wake",35.856111,-78.574167,34.5,34
+11-10-20,10,11,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,22,NA
+11-10-20,10,11,"West Johnston Co.","Johnston",35.59095,-78.4622,35.5,NA
+11-11-20,11,11,"Bryson City","Swain",35.434767,-83.442133,37.5,NA
+11-11-20,11,11,"Castle Hayne","New Hanover",34.364167,-77.838611,29,NA
+11-11-20,11,11,"Clemmons Middle","Forsyth",36.026,-80.342,50.5,NA
+11-11-20,11,11,"Durham Armory","Durham",36.0329550008979,-78.904037,42,NA
+11-11-20,11,11,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,37,32.5
+11-11-20,11,11,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,42,NA
+11-11-20,11,11,"Leggett","Edgecombe",35.988278,-77.5843,24,NA
+11-11-20,11,11,"Mendenhall School","Guilford",36.1090060008986,-79.802314,37,NA
+11-11-20,11,11,"Millbrook School","Wake",35.856111,-78.574167,44,33
+11-11-20,11,11,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,28,NA
+11-11-20,11,11,"West Johnston Co.","Johnston",35.59095,-78.4622,36,NA
+11-12-20,12,11,"Bryson City","Swain",35.434767,-83.442133,23.5,NA
+11-12-20,12,11,"Castle Hayne","New Hanover",34.364167,-77.838611,11,NA
+11-12-20,12,11,"Clemmons Middle","Forsyth",36.026,-80.342,39,NA
+11-12-20,12,11,"Durham Armory","Durham",36.0329550008979,-78.904037,37.5,NA
+11-12-20,12,11,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,32.5,22.5
+11-12-20,12,11,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,31.5,NA
+11-12-20,12,11,"Leggett","Edgecombe",35.988278,-77.5843,20.5,NA
+11-12-20,12,11,"Mendenhall School","Guilford",36.1090060008986,-79.802314,20.5,NA
+11-12-20,12,11,"Millbrook School","Wake",35.856111,-78.574167,37,24
+11-12-20,12,11,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,18.5,NA
+11-12-20,12,11,"West Johnston Co.","Johnston",35.59095,-78.4622,31.5,NA
+12-01-20,1,12,"Bryson City","Swain",35.434767,-83.442133,22,NA
+12-01-20,1,12,"Castle Hayne","New Hanover",34.364167,-77.838611,11.5,NA
+12-01-20,1,12,"Clemmons Middle","Forsyth",36.026,-80.342,44.5,NA
+12-01-20,1,12,"Durham Armory","Durham",36.0329550008979,-78.904037,46.3333333333333,NA
+12-01-20,1,12,"Frying Pan Mountain","Haywood",35.379167,-82.7925,5,NA
+12-01-20,1,12,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,41.3333333333333,31.5
+12-01-20,1,12,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,42.6666666666667,NA
+12-01-20,1,12,"Leggett","Edgecombe",35.988278,-77.5843,36.5,NA
+12-01-20,1,12,"Linville Falls","Avery",35.972347,-81.933072,16,NA
+12-01-20,1,12,"Mendenhall School","Guilford",36.1090060008986,-79.802314,35.5,NA
+12-01-20,1,12,"Millbrook School","Wake",35.856111,-78.574167,46.3333333333333,24
+12-01-20,1,12,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,29,NA
+12-01-20,1,12,"West Johnston Co.","Johnston",35.59095,-78.4622,38.5,NA
+12-02-20,2,12,"Bryson City","Swain",35.434767,-83.442133,15.5,NA
+12-02-20,2,12,"Castle Hayne","New Hanover",34.364167,-77.838611,6.5,NA
+12-02-20,2,12,"Clemmons Middle","Forsyth",36.026,-80.342,17,NA
+12-02-20,2,12,"Durham Armory","Durham",36.0329550008979,-78.904037,21.5,NA
+12-02-20,2,12,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,15,19.5
+12-02-20,2,12,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,15,NA
+12-02-20,2,12,"Leggett","Edgecombe",35.988278,-77.5843,10,NA
+12-02-20,2,12,"Mendenhall School","Guilford",36.1090060008986,-79.802314,10.5,NA
+12-02-20,2,12,"Millbrook School","Wake",35.856111,-78.574167,23,20
+12-02-20,2,12,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,13,NA
+12-02-20,2,12,"West Johnston Co.","Johnston",35.59095,-78.4622,14.5,NA
+12-03-20,3,12,"Bryson City","Swain",35.434767,-83.442133,16.5,NA
+12-03-20,3,12,"Castle Hayne","New Hanover",34.364167,-77.838611,17.5,NA
+12-03-20,3,12,"Clemmons Middle","Forsyth",36.026,-80.342,22,NA
+12-03-20,3,12,"Durham Armory","Durham",36.0329550008979,-78.904037,30,NA
+12-03-20,3,12,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,22,26.5
+12-03-20,3,12,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,20.5,NA
+12-03-20,3,12,"Leggett","Edgecombe",35.988278,-77.5843,19.5,NA
+12-03-20,3,12,"Mendenhall School","Guilford",36.1090060008986,-79.802314,13.5,NA
+12-03-20,3,12,"Millbrook School","Wake",35.856111,-78.574167,34.5,26
+12-03-20,3,12,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,28,NA
+12-03-20,3,12,"West Johnston Co.","Johnston",35.59095,-78.4622,32.5,NA
+12-04-20,4,12,"Bryson City","Swain",35.434767,-83.442133,16.5,NA
+12-04-20,4,12,"Castle Hayne","New Hanover",34.364167,-77.838611,21,NA
+12-04-20,4,12,"Clemmons Middle","Forsyth",36.026,-80.342,14.6666666666667,NA
+12-04-20,4,12,"Durham Armory","Durham",36.0329550008979,-78.904037,16.3333333333333,NA
+12-04-20,4,12,"Frying Pan Mountain","Haywood",35.379167,-82.7925,5,NA
+12-04-20,4,12,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,15.6666666666667,25.5
+12-04-20,4,12,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,17,NA
+12-04-20,4,12,"Leggett","Edgecombe",35.988278,-77.5843,13.5,NA
+12-04-20,4,12,"Linville Falls","Avery",35.972347,-81.933072,6,NA
+12-04-20,4,12,"Mendenhall School","Guilford",36.1090060008986,-79.802314,6,NA
+12-04-20,4,12,"Millbrook School","Wake",35.856111,-78.574167,20.3333333333333,25
+12-04-20,4,12,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,18.6666666666667,NA
+12-04-20,4,12,"West Johnston Co.","Johnston",35.59095,-78.4622,20.5,NA
+12-05-20,5,12,"Bryson City","Swain",35.434767,-83.442133,13.5,NA
+12-05-20,5,12,"Castle Hayne","New Hanover",34.364167,-77.838611,14,NA
+12-05-20,5,12,"Clemmons Middle","Forsyth",36.026,-80.342,16,NA
+12-05-20,5,12,"Durham Armory","Durham",36.0329550008979,-78.904037,27,NA
+12-05-20,5,12,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,18,27
+12-05-20,5,12,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,16,NA
+12-05-20,5,12,"Leggett","Edgecombe",35.988278,-77.5843,11,NA
+12-05-20,5,12,"Mendenhall School","Guilford",36.1090060008986,-79.802314,10.5,NA
+12-05-20,5,12,"Millbrook School","Wake",35.856111,-78.574167,34.5,22
+12-05-20,5,12,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,16,NA
+12-05-20,5,12,"West Johnston Co.","Johnston",35.59095,-78.4622,22.5,NA
+12-06-20,6,12,"Bryson City","Swain",35.434767,-83.442133,40.5,NA
+12-06-20,6,12,"Castle Hayne","New Hanover",34.364167,-77.838611,19,NA
+12-06-20,6,12,"Clemmons Middle","Forsyth",36.026,-80.342,43.5,NA
+12-06-20,6,12,"Durham Armory","Durham",36.0329550008979,-78.904037,38.5,NA
+12-06-20,6,12,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,47.5,21.5
+12-06-20,6,12,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,42,NA
+12-06-20,6,12,"Leggett","Edgecombe",35.988278,-77.5843,24,NA
+12-06-20,6,12,"Mendenhall School","Guilford",36.1090060008986,-79.802314,31,NA
+12-06-20,6,12,"Millbrook School","Wake",35.856111,-78.574167,50.5,23
+12-06-20,6,12,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,30.5,NA
+12-06-20,6,12,"West Johnston Co.","Johnston",35.59095,-78.4622,35,NA
+12-07-20,7,12,"Bryson City","Swain",35.434767,-83.442133,37.5,NA
+12-07-20,7,12,"Castle Hayne","New Hanover",34.364167,-77.838611,30,NA
+12-07-20,7,12,"Clemmons Middle","Forsyth",36.026,-80.342,55.5,NA
+12-07-20,7,12,"Durham Armory","Durham",36.0329550008979,-78.904037,45.3333333333333,NA
+12-07-20,7,12,"Frying Pan Mountain","Haywood",35.379167,-82.7925,11,NA
+12-07-20,7,12,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,53.3333333333333,25
+12-07-20,7,12,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,46,NA
+12-07-20,7,12,"Leggett","Edgecombe",35.988278,-77.5843,22.5,NA
+12-07-20,7,12,"Linville Falls","Avery",35.972347,-81.933072,15,NA
+12-07-20,7,12,"Mendenhall School","Guilford",36.1090060008986,-79.802314,37,NA
+12-07-20,7,12,"Millbrook School","Wake",35.856111,-78.574167,43.3333333333333,27
+12-07-20,7,12,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,32.3333333333333,NA
+12-07-20,7,12,"West Johnston Co.","Johnston",35.59095,-78.4622,49,NA
+12-08-20,8,12,"Bryson City","Swain",35.434767,-83.442133,42.5,NA
+12-08-20,8,12,"Castle Hayne","New Hanover",34.364167,-77.838611,18.5,NA
+12-08-20,8,12,"Clemmons Middle","Forsyth",36.026,-80.342,47,NA
+12-08-20,8,12,"Durham Armory","Durham",36.0329550008979,-78.904037,44,NA
+12-08-20,8,12,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,41,26
+12-08-20,8,12,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,42.5,NA
+12-08-20,8,12,"Leggett","Edgecombe",35.988278,-77.5843,21,NA
+12-08-20,8,12,"Mendenhall School","Guilford",36.1090060008986,-79.802314,38,NA
+12-08-20,8,12,"Millbrook School","Wake",35.856111,-78.574167,43.5,27
+12-08-20,8,12,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,22.3333333333333,NA
+12-08-20,8,12,"West Johnston Co.","Johnston",35.59095,-78.4622,34.5,NA
+12-09-20,9,12,"Bryson City","Swain",35.434767,-83.442133,23.5,NA
+12-09-20,9,12,"Castle Hayne","New Hanover",34.364167,-77.838611,8,NA
+12-09-20,9,12,"Clemmons Middle","Forsyth",36.026,-80.342,42.5,NA
+12-09-20,9,12,"Durham Armory","Durham",36.0329550008979,-78.904037,39.5,NA
+12-09-20,9,12,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,53,13
+12-09-20,9,12,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,35.5,NA
+12-09-20,9,12,"Leggett","Edgecombe",35.988278,-77.5843,17.5,NA
+12-09-20,9,12,"Mendenhall School","Guilford",36.1090060008986,-79.802314,29,NA
+12-09-20,9,12,"Millbrook School","Wake",35.856111,-78.574167,34.5,19
+12-09-20,9,12,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,16.5,NA
+12-09-20,9,12,"West Johnston Co.","Johnston",35.59095,-78.4622,16.5,NA
+12-10-20,10,12,"Bryson City","Swain",35.434767,-83.442133,18,NA
+12-10-20,10,12,"Castle Hayne","New Hanover",34.364167,-77.838611,10.5,NA
+12-10-20,10,12,"Clemmons Middle","Forsyth",36.026,-80.342,31.3333333333333,NA
+12-10-20,10,12,"Durham Armory","Durham",36.0329550008979,-78.904037,35,NA
+12-10-20,10,12,"Frying Pan Mountain","Haywood",35.379167,-82.7925,2,NA
+12-10-20,10,12,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,22.6666666666667,30
+12-10-20,10,12,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,30,NA
+12-10-20,10,12,"Leggett","Edgecombe",35.988278,-77.5843,27.5,NA
+12-10-20,10,12,"Linville Falls","Avery",35.972347,-81.933072,5,NA
+12-10-20,10,12,"Mendenhall School","Guilford",36.1090060008986,-79.802314,37.5,NA
+12-10-20,10,12,"Millbrook School","Wake",35.856111,-78.574167,37.6666666666667,29
+12-10-20,10,12,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,31,NA
+12-10-20,10,12,"West Johnston Co.","Johnston",35.59095,-78.4622,35.5,NA
+12-11-20,11,12,"Bryson City","Swain",35.434767,-83.442133,17,NA
+12-11-20,11,12,"Castle Hayne","New Hanover",34.364167,-77.838611,23,NA
+12-11-20,11,12,"Clemmons Middle","Forsyth",36.026,-80.342,38,NA
+12-11-20,11,12,"Durham Armory","Durham",36.0329550008979,-78.904037,35.5,NA
+12-11-20,11,12,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,29.5,28
+12-11-20,11,12,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,33,NA
+12-11-20,11,12,"Leggett","Edgecombe",35.988278,-77.5843,28.5,NA
+12-11-20,11,12,"Mendenhall School","Guilford",36.1090060008986,-79.802314,33,NA
+12-11-20,11,12,"Millbrook School","Wake",35.856111,-78.574167,43,30.5
+12-11-20,11,12,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,31.5,NA
+12-11-20,11,12,"West Johnston Co.","Johnston",35.59095,-78.4622,28.5,NA
+12-12-20,12,12,"Bryson City","Swain",35.434767,-83.442133,21,NA
+12-12-20,12,12,"Castle Hayne","New Hanover",34.364167,-77.838611,22.5,NA
+12-12-20,12,12,"Clemmons Middle","Forsyth",36.026,-80.342,54,NA
+12-12-20,12,12,"Durham Armory","Durham",36.0329550008979,-78.904037,42.5,NA
+12-12-20,12,12,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,35.5,28
+12-12-20,12,12,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,38,NA
+12-12-20,12,12,"Leggett","Edgecombe",35.988278,-77.5843,25,NA
+12-12-20,12,12,"Mendenhall School","Guilford",36.1090060008986,-79.802314,34,NA
+12-12-20,12,12,"Millbrook School","Wake",35.856111,-78.574167,48.3333333333333,26.5
+12-12-20,12,12,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,28,NA
+12-12-20,12,12,"West Johnston Co.","Johnston",35.59095,-78.4622,30.5,NA
+NA,NA,NA,"Bryson City","Swain",35.434767,-83.442133,30.4661654135338,35.5576923076923
+NA,NA,NA,"Castle Hayne","New Hanover",34.364167,-77.838611,15.7794871794872,39.3737024221453
+NA,NA,NA,"Clemmons Middle","Forsyth",36.026,-80.342,36.7595744680851,42.973063973064
+NA,NA,NA,"Durham Armory","Durham",36.0329550008979,-78.904037,33.2883211678832,40.6026058631922
+NA,NA,NA,"Frying Pan Mountain","Haywood",35.379167,-82.7925,13.3684210526316,44.8279220779221
+NA,NA,NA,"Garinger High School","Mecklenburg",35.2401000008895,-80.785683,33.3042168674699,40.0972222222222
+NA,NA,NA,"Hattie Avenue","Forsyth",36.110693332,-80.2264378,32.4783362218371,44.5170068027211
+NA,NA,NA,"Leggett","Edgecombe",35.988278,-77.5843,25.697619047619,39.1739130434783
+NA,NA,NA,"Linville Falls","Avery",35.972347,-81.933072,17.4938271604938,38.1287128712871
+NA,NA,NA,"Mendenhall School","Guilford",36.1090060008986,-79.802314,28.9230769230769,46.0565371024735
+NA,NA,NA,"Millbrook School","Wake",35.856111,-78.574167,37.3377926421405,38.3248847926267
+NA,NA,NA,"Pitt Agri. Center","Pitt",35.6412760008938,-77.360126,27.2923076923077,41.4006968641115
+NA,NA,NA,"West Johnston Co.","Johnston",35.59095,-78.4622,32.5985915492958,40.2611464968153
