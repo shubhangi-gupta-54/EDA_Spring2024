@@ -59,16 +59,16 @@ glimpse(EPAair_PM25_NC2019_raw)
 
 3. Change the Date columns to be date objects.
 ```{r}
-EPAair_O3_NC2018_raw$Date <- as.Date(EPAair_O3_NC2018_raw$Date)
+EPAair_O3_NC2018_raw$Date <- mdy(EPAair_O3_NC2018_raw$Date)
 class(EPAair_O3_NC2018_raw$Date)
 
-EPAair_O3_NC2019_raw$Date <- as.Date(EPAair_O3_NC2019_raw$Date)
+EPAair_O3_NC2019_raw$Date <- mdy(EPAair_O3_NC2019_raw$Date)
 class(EPAair_O3_NC2019_raw$Date)
 
-EPAair_PM25_NC2018_raw$Date <- as.Date(EPAair_PM25_NC2018_raw$Date)
+EPAair_PM25_NC2018_raw$Date <- mdy(EPAair_PM25_NC2018_raw$Date)
 class(EPAair_PM25_NC2018_raw$Date)
 
-EPAair_PM25_NC2019_raw$Date <- as.Date(EPAair_PM25_NC2019_raw$Date)
+EPAair_PM25_NC2019_raw$Date <- mdy(EPAair_PM25_NC2019_raw$Date)
 class(EPAair_PM25_NC2019_raw$Date)
 ```
 
@@ -179,8 +179,6 @@ glimpse(EPAAir_AQ_MasterDataSet_grouped)
 EPAAir_AQ_MasterDataSet_grouped <- select(EPAAir_AQ_MasterDataSet_grouped, Date, 
                                   Month, Year, Site.Name:meanlongitude)
 glimpse(EPAAir_AQ_MasterDataSet_grouped)
-
-#TWO ISSUES: number of rows is wrong and year is coming as 1
 ```
   
 
@@ -230,4 +228,3 @@ glimpse(EPAAir_AQ_MasterDataSet_Qn12)
 
 > Answer: 
 The dimensions with na.omit are [1270,5] whereas with drop_na(), it's [1431,5]. This is because na.omit removes all NAs from the dataframe whereas drop_na only drops the NAs in the specified column.
-#CHECK!!!
