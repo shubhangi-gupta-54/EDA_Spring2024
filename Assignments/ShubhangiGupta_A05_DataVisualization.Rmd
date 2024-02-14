@@ -68,7 +68,7 @@ class(NEON_NIWO_Litter_mass_trap$collectDate)
 #3
 #Defining my theme (plot size, axes lables and legend position)
 mytheme <- theme_classic(base_size = 14)+
-  theme(axis.text = element_text("black"), legend.position = "top")
+  theme(axis.text = element_text(color="black"), legend.position = "top")
 
 #Setting my theme as the default
 theme_set(mytheme)
@@ -79,7 +79,7 @@ For numbers 4-7, create ggplot graphs and adjust aesthetics to follow best pract
 
 4. [NTL-LTER] Plot total phosphorus (`tp_ug`) by phosphate (`po4`), with separate aesthetics for Peter and Paul lakes. Add line(s) of best fit using the `lm` method. Adjust your axes to hide extreme values (hint: change the limits using `xlim()` and/or `ylim()`).
 
-```{r plot total P vs PO4, fig.height = 3, fig.width = 4, warning=FALSE}
+```{r plot total P vs PO4, fig.height = 3, fig.width = 10, warning=FALSE}
 #4 
 ggplot(NTL_LTER_Lake_Chemistry_Nutrients_PeterPaul, aes(x=po4, y=tp_ug), na.rm=TRUE )+
   geom_point(aes(color = lakename), na.rm=TRUE)+
@@ -99,7 +99,7 @@ Tips:
 * Setting a legend's position to "none" will remove the legend from a plot.
 * Individual plots can have different sizes when combined using `cowplot`.
 
-```{r Create boxplots, r, fig.height = 3, fig.width = 4, warning=FALSE}
+```{r Create boxplots, r, fig.height = 10, fig.width = 5, warning=FALSE}
 #5
 
 #Adding a new column to the df with the months as factors
@@ -135,7 +135,7 @@ Question: What do you observe about the variables of interest over seasons and b
 
 7. [Niwot Ridge] Now, plot the same plot but with NLCD classes separated into three facets rather than separated by color. 
 
-```{r Plot litter, fig.height = 3, fig.width = 4, warning=FALSE}
+```{r Plot litter, fig.height = 5, fig.width =5, warning=FALSE}
 #6
 
 ggplot(subset(NEON_NIWO_Litter_mass_trap, functionalGroup=="Needles"), na.rm=TRUE)+

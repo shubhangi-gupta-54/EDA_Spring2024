@@ -100,7 +100,7 @@ ggplot(PeterPaul.chem.nutrients, aes(x=month))+
   geom_bar()
 
 #Convert month to a factor -- with 12 levels, labelled with month names
-PeterPaul.chem.nutrients$month_factor < factor(PeterPaul.chem.nutrients$month, levels = 1:12, labels = month.abb) 
+PeterPaul.chem.nutrients$month_factor <- factor(PeterPaul.chem.nutrients$month, levels = 1:12, labels = month.abb) 
 #levels are the total number of things in the factor object - whether they have data in them or not.
 #month.abb lists all the 12 months as characters, and the label argument labels the factors.
 
