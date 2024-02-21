@@ -30,11 +30,11 @@ Using markdown, create a table beneath the `Table: EPA Air Quality` line below t
 
 Table: EPA Air Quality
 
-Value | Item
------ | -------------
-EPA Air Quality System (AQS) | Source
-2018-2019 | Date
-EPAair_O3_PM25_NC1819_Processed.csv | Filename 
+|Item|Value|
+|---|-------|
+|Source|EPA Air Quality System (AQS)|
+|Date|2018-2019|
+|Filename|EPAair_O3_PM25_NC1819_Processed.csv|
 
 ---
 
@@ -106,8 +106,8 @@ OzoneByMonth2018 <- epa_data[epa_data$Year=="2018", c(7,8,10)]
 OzoneByMonth2019 <- epa_data[epa_data$Year=="2019", c(7,8,10)]
 
 #Converting the month into factors
-OzoneByMonth2018$Month <- as.factor(OzoneByMonth2018$Month)
-OzoneByMonth2019$Month <- as.factor(OzoneByMonth2019$Month)
+OzoneByMonth2018$Month <- factor(OzoneByMonth2018$Month, levels = 1:12, labels = month.abb)
+OzoneByMonth2019$Month <- factor(OzoneByMonth2019$Month, levels = 1:12, labels = month.abb)
 
 #Plotting the 2018 graph
 ggplot(OzoneByMonth2018)+
