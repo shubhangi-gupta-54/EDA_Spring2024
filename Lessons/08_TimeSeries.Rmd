@@ -217,7 +217,6 @@ Note that wind speed has a seasonal cycle. We might be interested in knowing how
 
 
 ```{r}
-
 # Generate time series (trend test needs ts, not data.frame)
 f_month <- month(first(wind_data_clean$DATE))
 f_year <- year(first(wind_data_clean$DATE))

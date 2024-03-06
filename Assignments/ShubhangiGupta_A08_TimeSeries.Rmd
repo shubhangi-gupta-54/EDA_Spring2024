@@ -234,20 +234,22 @@ ggplot(GaringerOzone.monthly, aes(x=Date_Monthly, y=Monthly_Mean_Ozone))+
 ```{r}
 #15
 
-GaringerOzone.monthly.deseasoned <- as.data.frame(GaringerOzone.monthly.ts_decomposed$time.series[,1:3])
-GaringerOzone.monthly.deseasoned <- mutate(GaringerOzone.monthly.deseasoned,
+GaringerOzone.monthly.decomposed2 <- as.data.frame(GaringerOzone.monthly.ts_decomposed$time.series[,1:3])
+GaringerOzone.monthly.decomposed2 <- mutate(GaringerOzone.monthly.decomposed2,
         Observed = GaringerOzone.monthly$Monthly_Mean_Ozone,     
         Date = GaringerOzone.monthly$Date_Monthly)
-glimpse(GaringerOzone.monthly.deseasoned)
+glimpse(GaringerOzone.monthly.decomposed2)
 
-#The "trend" column of the decomposed dataset in Qn 11 represents the deseasoned data
-#ie original data minus the seasonal component
-GaringerOzone.monthly.trend <- GaringerOzone.monthly.ts_decomposed$time.series[,2]
+#The deseasoned data is original data minus the "seasonal" column in the decomposed data in qn11.
+GaringerOzone.monthly.deseasoned <- GaringerOzone.monthly.decomposed2$Observed - 
+                              GaringerOzone.monthly.decomposed2$seasonal
+
+head(GaringerOzone.monthly.deseasoned)
 
 #16
 
-summary(SeasonalMannKendall(GaringerOzone.monthly.trend))
+summary(MannKendall(GaringerOzone.monthly.deseasoned))
 
 ```
 
-> Answer: The SMK test gives a more robust answer this time around. The p-value is actually statistically significant as it is considerably lower than 0.05, the tau value (ie correlation) rises in magnitude to -0.304 ie the negative trend is stronger, and the S value (score) also more than doubles in value to -164 indicating a stronger negative trend.
+> Answer: The Mann Kendall test is kind of similar in result. The p-value is more statistically significant than before as it is lower than 0.05 at 0.0075, the tau value (ie correlation) rises is -0.165 which is similar to the result in qn 12implying a slight negative correlation, but the S score is much higher in magnitdue than before, implying a strong negative trend.
