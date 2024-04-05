@@ -1,0 +1,107 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+```{r 1. Project Setup, message = FALSE}
+#1 
+library(tidyverse)
+library(dplyr)
+library(lubridate)
+library(readxl)
+library(ggplot2)
+library(smooth)
+
+getwd()
+```
+
+
+```{r}
+#Importing the data & checking
+Config1_Data <- read_excel("OtherSubjects/Qn3bConfig1.xlsx",col_names=TRUE)
+glimpse(Config1_Data)
+
+Config2_East_Data <- read_excel("OtherSubjects/Qn3bConfig2East.xlsx",col_names=TRUE)
+glimpse(Config2_East_Data)
+
+Config2_West_Data <- read_excel("OtherSubjects/Qn3bConfig2West.xlsx",col_names=TRUE)
+glimpse(Config2_West_Data)
+```
+
+```{r}
+#Calculating Average Hourly Generation 
+
+#Configuration 1
+AvgHourlyGen_Config1 <- aggregate(Config1_Data$`AC System Output (W)`, by = list(Config1_Data$Month, Config1_Data$Hour), FUN = mean)
+
+colnames(AvgHourlyGen_Config1) <- c("Month", "Hour", "AC_Generation")
+  
+AvgHourlyGen_Config1 <- arrange(AvgHourlyGen_Config1, Month)
+
+glimpse(AvgHourlyGen_Config1)
+
+#Configuration 2 (East)
+
+AvgHourlyGen_Config2_East <- aggregate(Config2_East_Data$`AC System Output (W) - East`, by = list(Config2_East_Data$Month, Config2_East_Data$Hour), FUN = mean)
+
+colnames(AvgHourlyGen_Config2_East) <- c("Month", "Hour", "AC_Generation")
+  
+AvgHourlyGen_Config2_East <- arrange(AvgHourlyGen_Config2_East, Month)
+
+glimpse(AvgHourlyGen_Config2_East)
+
+#Configuration 3 (West)
+AvgHourlyGen_Config2_West <- aggregate(Config2_West_Data$`AC System Output (W) - West`, by = list(Config2_West_Data$Month, Config2_West_Data$Hour), FUN = mean)
+
+colnames(AvgHourlyGen_Config2_West) <- c("Month", "Hour", "AC_Generation")
+  
+AvgHourlyGen_Config2_West <- arrange(AvgHourlyGen_Config2_West, Month)
+
+glimpse(AvgHourlyGen_Config2_West)
+```
+
+
+```{r}
+
+#Plotting for Qn3b1
+
+#Copying the Generation data from both configurations into 1 dataframe
+AvgHourlyGen <- cbind(AvgHourlyGen_Config1, AvgHourlyGen_Config2_East$AC_Generation, AvgHourlyGen_Config2_West$AC_Generation)
+colnames(AvgHourlyGen) <- c("Month", "Hour", "Config1Gen", "Config2EastGen", "Config2WestGen")
+AvgHourlyGen$Config2TotalGen <- AvgHourlyGen$Config2EastGen + AvgHourlyGen$Config2WestGen
+glimpse(AvgHourlyGen)
+
+#Breaking up dataframe into one for June and one for December
+AvgHourlyGen_June <- AvgHourlyGen[1:24,]
+glimpse(AvgHourlyGen_June)
+tail(AvgHourlyGen_June)
+
+AvgHourlyGen_Dec <- AvgHourlyGen[25:48,]
+glimpse(AvgHourlyGen_Dec)
+tail(AvgHourlyGen_Dec)
+
+#Plotting for June and December
+
+AvgHourlyGen_June_Plot <- ggplot(AvgHourlyGen_June)+
+  geom_line(aes(x=Hour, y=Config1Gen), col="blue")+
+  geom_line(aes(x=Hour, y=Config2TotalGen), col="green")+
+  ggtitle("Average Hourly AC Generation in June in Durham")+
+  ylab("AC Generation (W)")+
+  theme(legend.position = "right")
+  
+AvgHourlyGen_June_Plot
+
+AvgHourlyGen_Dec_Plot <- ggplot(AvgHourlyGen_Dec)+
+  geom_line(aes(x=Hour, y=Config1Gen), col="blue")+
+  geom_line(aes(x=Hour, y=Config2TotalGen), col="green")+
+  ggtitle("Average Hourly AC Generation in December in Durham")+
+  ylab("AC Generation (W)")+
+  theme(legend.position = "right")
+  
+AvgHourlyGen_Dec_Plot
+```
+```{r}
+
+#Exporting the data
+write.csv(AvgHourlyGen, file = "AvgHourlyGen.csv", row.names = FALSE)
+```
